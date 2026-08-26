@@ -1,0 +1,35 @@
+name: Sync Steam game index
+
+on:
+  schedule:
+    - cron: "0 19 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+    timeout-minutes: 45
+    steps:
+      - uses: actions/checkout@v4
+      - uses: pnpm/action-setup@v4
+        with:
+          version: 11.19.0
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 24
+          cache: pnpm
+      - run: pnpm install --frozen-lockfile
+      - run: pnpm sync:steam
+        env:
+          STEAM_API_KEY: ${{ secrets.STEAM_API_KEY }}
+          STEAM_SYNC_DETAIL_LIMIT: 300
+      - name: Commit refreshed index
+        run: |
+          git config user.name "steam-index-bot"
+          git config user.email "steam-index-bot@users.noreply.github.com"
+          git add data/steam-apps.json data/steam-games.json data/steam-sync-state.json
+          git diff --cached --quiet || git commit -m "chore: refresh Steam game index"
+          git push
