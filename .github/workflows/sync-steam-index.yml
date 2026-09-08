@@ -2,7 +2,7 @@ name: Sync Steam game index
 
 on:
   schedule:
-    - cron: "0 19 * * *"
+    - cron: "0 */6 * * *"
   workflow_dispatch:
 
 permissions:
@@ -33,7 +33,7 @@ jobs:
       - run: pnpm sync:steam
         env:
           STEAM_API_KEY: ${{ secrets.STEAM_API_KEY }}
-          STEAM_SYNC_DETAIL_LIMIT: 300
+          STEAM_SYNC_DETAIL_LIMIT: 1000
       - name: Commit refreshed index
         run: |
           git config user.name "steam-index-bot"

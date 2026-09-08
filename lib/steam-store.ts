@@ -24,15 +24,24 @@ export const STORE_PREFILTER_LIMIT = 80;
 
 const indexedGames = steamGamesJson as SteamStoreGame[];
 
-function getCandidateKeywords(game: SteamStoreGame) {
-  return new Set([
+const gameKeywords = new Map<number, Set<string>>();
+const keywordToAppIds = new Map<string, Set<number>>();
+
+for (const game of indexedGames) {
+  const keywords = new Set([
     ...game.genres.map(translateGenre),
     ...game.tags.map(translateSteamTag),
   ]);
+  gameKeywords.set(game.appid, keywords);
+  for (const keyword of keywords) {
+    const appIds = keywordToAppIds.get(keyword) ?? new Set<number>();
+    appIds.add(game.appid);
+    keywordToAppIds.set(keyword, appIds);
+  }
 }
 
 function getPrefilterScore(game: SteamStoreGame, dimensions: AnalysisDimension[], recentDimensions: AnalysisDimension[]) {
-  const candidateKeywords = getCandidateKeywords(game);
+  const candidateKeywords = gameKeywords.get(game.appid) ?? new Set<string>();
   return dimensions.reduce((total, dimension) => {
     const recentDimension = recentDimensions.find((item) => item.key === dimension.key);
     const historicalScore = dimension.keywords
@@ -46,7 +55,19 @@ function getPrefilterScore(game: SteamStoreGame, dimensions: AnalysisDimension[]
 }
 
 export function getStoreCandidates(excludedAppIds: Set<number>, dimensions: AnalysisDimension[], recentDimensions: AnalysisDimension[]) {
-  return indexedGames
+  const preferredKeywords = new Set(
+    [...dimensions, ...recentDimensions].flatMap((dimension) => dimension.keywords.map((keyword) => keyword.name)),
+  );
+  const matchedAppIds = new Set<number>();
+  for (const keyword of preferredKeywords) {
+    for (const appid of keywordToAppIds.get(keyword) ?? []) matchedAppIds.add(appid);
+  }
+
+  const sourceGames = matchedAppIds.size >= STORE_PREFILTER_LIMIT
+    ? indexedGames.filter((game) => matchedAppIds.has(game.appid))
+    : indexedGames;
+
+  return sourceGames
     .filter((game) => !excludedAppIds.has(game.appid))
     .map((game) => ({ game, prefilterScore: getPrefilterScore(game, dimensions, recentDimensions) }))
     .sort((first, second) => second.prefilterScore - first.prefilterScore || second.game.recommendationTotal - first.game.recommendationTotal)
@@ -58,5 +79,6 @@ export function getStoreIndexStatus() {
   return {
     indexedGames: indexedGames.length,
     prefilterLimit: STORE_PREFILTER_LIMIT,
+    indexedKeywords: keywordToAppIds.size,
   };
 }

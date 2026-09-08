@@ -7,7 +7,7 @@ const appsPath = path.join(dataDirectory, "steam-apps.json");
 const gamesPath = path.join(dataDirectory, "steam-games.json");
 const statePath = path.join(dataDirectory, "steam-sync-state.json");
 const apiKey = process.env.STEAM_API_KEY?.trim();
-const detailLimit = Math.max(1, Number.parseInt(process.env.STEAM_SYNC_DETAIL_LIMIT ?? "100", 10) || 100);
+const detailLimit = Math.max(1, Number.parseInt(process.env.STEAM_SYNC_DETAIL_LIMIT ?? "1000", 10) || 1000);
 const priorityAppIds = [
   620, 413150, 292030, 1086940, 1245620, 1174180, 271590, 230410,
   570, 440, 289070, 255710, 594570, 367520, 648800, 526870,
@@ -209,7 +209,7 @@ const pending = catalog.apps
   .sort((first, second) => {
     const firstPriority = priorityOrder.get(first.appid) ?? Number.MAX_SAFE_INTEGER;
     const secondPriority = priorityOrder.get(second.appid) ?? Number.MAX_SAFE_INTEGER;
-    return firstPriority - secondPriority || second.last_modified - first.last_modified;
+    return firstPriority - secondPriority || first.appid - second.appid;
   })
   .slice(0, detailLimit);
 
