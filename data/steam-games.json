@@ -345,28 +345,6 @@
     "ignUrl": "https://www.ign.com/articles/2015/05/12/the-witcher-3-wild-hunt-review"
   },
   {
-    "appid": 1245620,
-    "name": "ELDEN RING",
-    "shortDescription": "THE CRITICALLY ACCLAIMED FANTASY ACTION RPG. Rise, Tarnished, and be guided by grace to brandish the power of the Elden Ring and become an Elden Lord in the Lands Between.",
-    "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1245620/f0b19c231f86fa0e633ff88a1a63459443017728/header_alt_assets_3.jpg?t=1790188359",
-    "capsuleImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1245620/65b8e40dc6ffab9cf53bf26f05023a199118a6a8/capsule_231x87_alt_assets_3.jpg?t=1790188359",
-    "storeUrl": "https://store.steampowered.com/app/1245620/",
-    "tags": [
-      "Violent"
-    ],
-    "genres": [
-      "Action",
-      "RPG"
-    ],
-    "isFree": false,
-    "price": "¥ 298.00",
-    "releaseDate": "24 Feb, 2022",
-    "lastModified": 1790188359,
-    "recommendationTotal": 832168,
-    "ignScore": 10,
-    "ignUrl": "https://www.ign.com/articles/elden-ring-review"
-  },
-  {
     "appid": 550,
     "name": "Left 4 Dead 2",
     "shortDescription": "Set in the zombie apocalypse, Left 4 Dead 2 is a co-operative action horror FPS takes you and your friends through the cities, swamps and cemeteries of the Deep South, from Savannah to New Orleans across five expansive campaigns.",
@@ -919,50 +897,6 @@
     "lastModified": 1782913513,
     "recommendationTotal": 377512,
     "ignUrl": "https://www.ign.com/games/dying-light"
-  },
-  {
-    "appid": 322330,
-    "name": "Don't Starve Together",
-    "shortDescription": "Fight, Farm, Build and Explore Together in the standalone multiplayer expansion to the uncompromising wilderness survival game, Don't Starve.",
-    "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/322330/51e5f44e4e38ce02a985687df4fdc8feb678219b/header.jpg?t=1789497030",
-    "capsuleImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/322330/29836375ea0f65ee0495d97a26c997f8cef7cab7/capsule_231x87.jpg?t=1789497030",
-    "storeUrl": "https://store.steampowered.com/app/322330/",
-    "tags": [
-      "Survival",
-      "Open World Survival Craft",
-      "Multiplayer",
-      "Co-op",
-      "Open World",
-      "Adventure",
-      "Crafting",
-      "Online Co-Op",
-      "Sandbox",
-      "Difficult",
-      "Indie",
-      "2D",
-      "Atmospheric",
-      "Survival Horror",
-      "Funny",
-      "Strategy",
-      "Horror",
-      "Singleplayer",
-      "Action",
-      "Roguelike"
-    ],
-    "genres": [
-      "Action",
-      "Adventure",
-      "Indie",
-      "RPG",
-      "Simulation",
-      "Strategy"
-    ],
-    "isFree": false,
-    "price": "¥ 24.00",
-    "releaseDate": "21 Apr, 2016",
-    "lastModified": 1789497030,
-    "recommendationTotal": 376126,
-    "ignUrl": "https://www.ign.com/games/don-t-starve-together"
   },
   {
     "appid": 108600,
@@ -3871,47 +3805,6 @@
     "lastModified": 1779293333,
     "recommendationTotal": 98274,
     "ignUrl": "https://www.ign.com/games/kenshi"
-  },
-  {
-    "appid": 219740,
-    "name": "Don't Starve",
-    "shortDescription": "Don’t Starve is an uncompromising wilderness survival game full of science and magic. Enter a strange and unexplored world full of strange creatures, dangers, and surprises. Gather resources to craft items and structures that match your survival style.",
-    "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/219740/88641e235d75934ea9f7ed4e947edfd9da682732/header.jpg?t=1789497543",
-    "capsuleImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/219740/7d86b9837d78ffd5b6da896ef6410cbaf6461113/capsule_231x87.jpg?t=1789497543",
-    "storeUrl": "https://store.steampowered.com/app/219740/",
-    "tags": [
-      "Survival",
-      "Open World Survival Craft",
-      "Crafting",
-      "Adventure",
-      "Indie",
-      "Sandbox",
-      "Singleplayer",
-      "Perma Death",
-      "Multiplayer",
-      "Open World",
-      "Exploration",
-      "Roguelike",
-      "Replay Value",
-      "Moddable",
-      "Difficult",
-      "Simulation",
-      "2D",
-      "Top-Down",
-      "Survival Horror",
-      "Horror"
-    ],
-    "genres": [
-      "Adventure",
-      "Indie",
-      "Simulation"
-    ],
-    "isFree": false,
-    "price": "¥ 24.00",
-    "releaseDate": "23 Apr, 2013",
-    "lastModified": 1789497543,
-    "recommendationTotal": 97011,
-    "ignUrl": "https://www.ign.com/games/don-t-starve"
   },
   {
     "appid": 236850,
@@ -11707,8 +11600,8 @@
     "appid": 2280,
     "name": "DOOM + DOOM II",
     "shortDescription": "Developed by id Software, and originally released in 1993 and 1994, the definitive, newly enhanced versions of DOOM + DOOM II are available as a combined product.",
-    "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2280/header.jpg?t=1790283192",
-    "capsuleImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2280/capsule_231x87.jpg?t=1790283192",
+    "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2280/header.jpg?t=1790284857",
+    "capsuleImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2280/capsule_231x87.jpg?t=1790284857",
     "storeUrl": "https://store.steampowered.com/app/2280/",
     "tags": [],
     "genres": [
@@ -11717,8 +11610,8 @@
     "isFree": false,
     "price": "¥ 49.99",
     "releaseDate": "3 Aug, 2007",
-    "lastModified": 1790283192,
-    "recommendationTotal": 25507,
+    "lastModified": 1790284857,
+    "recommendationTotal": 25504,
     "ignUrl": "https://www.ign.com/games/doom-doom-ii"
   },
   {
@@ -17302,46 +17195,6 @@
     "lastModified": 1777395273,
     "recommendationTotal": 14872,
     "ignUrl": "https://www.ign.com/games/mass-effect-2007"
-  },
-  {
-    "appid": 282800,
-    "name": "100% Orange Juice",
-    "shortDescription": "100% Orange Juice is a digital multiplayer board game populated by developer Orange Juice's all-star cast. Characters from Flying Red Barrel, QP Shooting, Suguri and Sora come together with all-new characters to duke it out... with dice.",
-    "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/282800/74b8f808c2ea623f9aee9ed20c6d76c7e536e137/header.jpg?t=1790185287",
-    "capsuleImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/282800/f05202e348f2962f82673c6cef0acd8b5b704026/capsule_231x87.jpg?t=1790185287",
-    "storeUrl": "https://store.steampowered.com/app/282800/",
-    "tags": [
-      "Anime",
-      "Board Game",
-      "Cute",
-      "Multiplayer",
-      "Strategy",
-      "Card Game",
-      "Turn-Based",
-      "Indie",
-      "Casual",
-      "Funny",
-      "Great Soundtrack",
-      "Co-op",
-      "Female Protagonist",
-      "Singleplayer",
-      "Difficult",
-      "2D",
-      "Memes",
-      "Family Friendly",
-      "Comedy",
-      "Survival Horror"
-    ],
-    "genres": [
-      "Indie",
-      "Strategy"
-    ],
-    "isFree": false,
-    "price": "¥ 29.00",
-    "releaseDate": "16 May, 2014",
-    "lastModified": 1790185287,
-    "recommendationTotal": 14798,
-    "ignUrl": "https://www.ign.com/games/100-orange-juice"
   },
   {
     "appid": 405640,
@@ -57243,6 +57096,47 @@
     "ignUrl": "https://www.ign.com/games/home-design-3d"
   },
   {
+    "appid": 691450,
+    "name": "Misao - 2024 HD Remaster",
+    "shortDescription": "Explore a school plagued by unnatural phenomena in this horror-adventure game revolving around the missing girl Misao. Improving upon 2017's &quot;Definitive Edition&quot; with refreshed graphics and support for HD resolutions, you can now experience the terror in a new form.",
+    "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/691450/header.jpg?t=1735191987",
+    "capsuleImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/691450/capsule_231x87.jpg?t=1735191987",
+    "storeUrl": "https://store.steampowered.com/app/691450/",
+    "tags": [
+      "Horror",
+      "Puzzle",
+      "Exploration",
+      "2D",
+      "Female Protagonist",
+      "Psychological Horror",
+      "RPG",
+      "Story Rich",
+      "Surreal",
+      "Pixel Graphics",
+      "Casual",
+      "Anime",
+      "Dystopian",
+      "Atmospheric",
+      "Psychological",
+      "Adventure",
+      "Dark",
+      "Survival Horror",
+      "Singleplayer",
+      "Indie"
+    ],
+    "genres": [
+      "Adventure",
+      "Casual",
+      "Indie"
+    ],
+    "isFree": false,
+    "price": "¥ 37.00",
+    "releaseDate": "25 Oct, 2017",
+    "lastModified": 1735191987,
+    "recommendationTotal": 2351,
+    "ignUrl": "https://www.ign.com/games/misao-2024-hd-remaster"
+  },
+  {
     "appid": 310060,
     "name": "Knights of Pen and Paper 2",
     "shortDescription": "Prepare to inhabit a world of chivalry, class warfare and off-beat pop references. Knights of Pen &amp; Paper 2 is a turn-based, retro style, pixel-art adventure full of danger, intrigue, death, and saving throws!",
@@ -78090,6 +77984,34 @@
     "ignUrl": "https://www.ign.com/games/geometry-wars-3-dimensions-evolved"
   },
   {
+    "appid": 694500,
+    "name": "Army Men RTS",
+    "shortDescription": "Army Men RTS brings you back to the days of staging battles with tiny plastic soldiers in your backyard...except these green soldiers carry out your every command!",
+    "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/694500/header.jpg?t=1785353093",
+    "capsuleImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/694500/capsule_231x87.jpg?t=1785353093",
+    "storeUrl": "https://store.steampowered.com/app/694500/",
+    "tags": [
+      "Strategy",
+      "RTS",
+      "Multiplayer",
+      "Action",
+      "Classic",
+      "Base Building",
+      "Singleplayer",
+      "Military"
+    ],
+    "genres": [
+      "Action",
+      "Strategy"
+    ],
+    "isFree": false,
+    "price": "¥ 10.00",
+    "releaseDate": "20 Dec, 2017",
+    "lastModified": 1785353093,
+    "recommendationTotal": 1289,
+    "ignUrl": "https://www.ign.com/games/army-men-rts"
+  },
+  {
     "appid": 256370,
     "name": "MXGP - The Official Motocross Videogame",
     "shortDescription": "The only official MXGP videogame: all the riders and bikes from MX1 and MX2! Race on 1:1 scale official championship tracks. Career mode takes you from Debut Season to MX1. The game physics and dual stick control allow for separate control of bike and rider: unprecedented realism, in your hands.",
@@ -96240,6 +96162,46 @@
     "ignUrl": "https://www.ign.com/games/pixel-sketch"
   },
   {
+    "appid": 691280,
+    "name": "SINNER: Sacrifice for Redemption",
+    "shortDescription": "Sinner: Sacrifice for Redemption is a boss battler action-RPG. Face eight abhorrent bosses, the first seven each based on one of the sins. Before each epic clash, you must sacrifice a stat and level down to enter combat. Each fight will be tougher than the last as you wage war against sin itself.",
+    "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/691280/header.jpg?t=1779883443",
+    "capsuleImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/691280/capsule_231x87.jpg?t=1779883443",
+    "storeUrl": "https://store.steampowered.com/app/691280/",
+    "tags": [
+      "Horror",
+      "Souls-like",
+      "Hack and Slash",
+      "Difficult",
+      "Character Action Game",
+      "Action RPG",
+      "Action-Adventure",
+      "3D",
+      "RPG",
+      "Third Person",
+      "Story Rich",
+      "Choices Matter",
+      "Multiple Endings",
+      "Action",
+      "Dark Fantasy",
+      "Fantasy",
+      "Gothic",
+      "Atmospheric",
+      "Singleplayer",
+      "Dark"
+    ],
+    "genres": [
+      "Action",
+      "Indie"
+    ],
+    "isFree": false,
+    "price": "¥ 66.00",
+    "releaseDate": "22 Oct, 2018",
+    "lastModified": 1779883443,
+    "recommendationTotal": 840,
+    "ignUrl": "https://www.ign.com/games/sinner-sacrifice-for-redemption"
+  },
+  {
     "appid": 367570,
     "name": "oO",
     "shortDescription": "&quot;oO&quot; is a hardcore minimal arcade game.",
@@ -102151,6 +102113,37 @@
     "ignUrl": "https://www.ign.com/games/giga-wrecker"
   },
   {
+    "appid": 691770,
+    "name": "Eiyu*Senki – The World Conquest",
+    "shortDescription": "A mysterious hero from the heavens and the young ruler of Zipang, Himiko, set their sights on ending the eternal war burning around them, but to bring peace to the world they must first conquer it.",
+    "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/691770/header.jpg?t=1730126147",
+    "capsuleImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/691770/capsule_231x87.jpg?t=1730126147",
+    "storeUrl": "https://store.steampowered.com/app/691770/",
+    "tags": [
+      "Strategy",
+      "Sexual Content",
+      "Anime",
+      "Simulation",
+      "Visual Novel",
+      "Nudity",
+      "Casual",
+      "Turn-Based Strategy",
+      "Hentai",
+      "Historical"
+    ],
+    "genres": [
+      "Casual",
+      "Simulation",
+      "Strategy"
+    ],
+    "isFree": false,
+    "price": "¥ 90.00",
+    "releaseDate": "10 Nov, 2017",
+    "lastModified": 1730126147,
+    "recommendationTotal": 728,
+    "ignUrl": "https://www.ign.com/games/eiyu-senki-the-world-conquest"
+  },
+  {
     "appid": 610190,
     "name": "WARRIORS ALL-STARS",
     "shortDescription": "A battle of heroes where everyone is the lead! The very first all-stars title for Koei Tecmo! For the first time in Warriors series, flashy action combines both the traits of the original series and new exiting elements such as “Musou Rush”, open scenarios and multiple endings!",
@@ -105160,6 +105153,45 @@
     "lastModified": 1719420325,
     "recommendationTotal": 689,
     "ignUrl": "https://www.ign.com/games/mutant-football-league"
+  },
+  {
+    "appid": 690810,
+    "name": "Killing Floor: Incursion",
+    "shortDescription": "Killing Floor: Incursion is a fully-realized, multi-hour, story-driven adventure with an additional endless mode. In solo or co-op mode, travel diverse environments, from creepy farmhouses to the catacombs of Paris, in order to uncover who... or what is behind the Zed menace.",
+    "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/690810/125c43c7d735753e0d001c52b7774ec08ee7fec0/header.jpg?t=1771258126",
+    "capsuleImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/690810/6759e80b51016b55e6f2b017e514411456b23749/capsule_231x87.jpg?t=1771258126",
+    "storeUrl": "https://store.steampowered.com/app/690810/",
+    "tags": [
+      "Action",
+      "Gore",
+      "VR",
+      "Violent",
+      "Horror",
+      "Zombies",
+      "FPS",
+      "Shooter",
+      "Co-op",
+      "First-Person",
+      "Singleplayer",
+      "Atmospheric",
+      "Dark",
+      "Sci-fi",
+      "Action-Adventure",
+      "Puzzle",
+      "Post-apocalyptic",
+      "Survival Horror",
+      "Combat",
+      "Online Co-Op"
+    ],
+    "genres": [
+      "Action"
+    ],
+    "isFree": false,
+    "price": "¥ 70.00",
+    "releaseDate": "14 Nov, 2017",
+    "lastModified": 1771258126,
+    "recommendationTotal": 689,
+    "ignUrl": "https://www.ign.com/games/killing-floor-incursion"
   },
   {
     "appid": 73010,
@@ -124996,6 +125028,46 @@
     "ignUrl": "https://www.ign.com/games/transference"
   },
   {
+    "appid": 689980,
+    "name": "Car Trader Simulator",
+    "shortDescription": "Do you know how to profit from trading cars while maintaining a good reputation? Car Trader Simulator lets you play the role of an American car dealer. Your goal is to get rich. How you do it depends entirely on you.",
+    "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/689980/header.jpg?t=1709548064",
+    "capsuleImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/689980/capsule_231x87.jpg?t=1709548064",
+    "storeUrl": "https://store.steampowered.com/app/689980/",
+    "tags": [
+      "Early Access",
+      "Simulation",
+      "Trading",
+      "2D",
+      "Singleplayer",
+      "Management",
+      "Indie",
+      "Casual",
+      "Economy",
+      "Strategy",
+      "Funny",
+      "Relaxing",
+      "Family Friendly",
+      "Resource Management",
+      "Adventure",
+      "Capitalism",
+      "Realistic",
+      "Choices Matter",
+      "Inventory Management",
+      "Open World"
+    ],
+    "genres": [
+      "Simulation",
+      "Early Access"
+    ],
+    "isFree": false,
+    "price": "¥ 42.00",
+    "releaseDate": "4 Nov, 2020",
+    "lastModified": 1709548064,
+    "recommendationTotal": 476,
+    "ignUrl": "https://www.ign.com/games/car-trader-simulator"
+  },
+  {
     "appid": 385400,
     "name": "Weapons Genius",
     "shortDescription": "You act as a weapon genius and create ever new types of weapon with better specifications.",
@@ -134162,6 +134234,46 @@
     "lastModified": 1680016531,
     "recommendationTotal": 403,
     "ignUrl": "https://www.ign.com/games/trackmania-valley"
+  },
+  {
+    "appid": 693800,
+    "name": "Loco Parentis / 孤女咒怨",
+    "shortDescription": "Surreal survival horror, where you alone or with a friend have to solve puzzles and try to survive in the endless entrance among the monsters",
+    "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/693800/header.jpg?t=1772625918",
+    "capsuleImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/693800/capsule_231x87.jpg?t=1772625918",
+    "storeUrl": "https://store.steampowered.com/app/693800/",
+    "tags": [
+      "Indie",
+      "Adventure",
+      "Horror",
+      "Co-op",
+      "Action",
+      "Massively Multiplayer",
+      "RPG",
+      "Dark",
+      "VR",
+      "Psychological Horror",
+      "Violent",
+      "Mystery",
+      "Online Co-Op",
+      "Roguelite",
+      "Gore",
+      "First-Person",
+      "Story Rich"
+    ],
+    "genres": [
+      "Action",
+      "Adventure",
+      "Indie",
+      "Massively Multiplayer",
+      "RPG"
+    ],
+    "isFree": false,
+    "price": "¥ 38.00",
+    "releaseDate": "19 Sep, 2019",
+    "lastModified": 1772625918,
+    "recommendationTotal": 403,
+    "ignUrl": "https://www.ign.com/games/loco-parentis"
   },
   {
     "appid": 111800,
@@ -164607,6 +164719,35 @@
     "ignUrl": "https://www.ign.com/games/whiplash-crash-valley"
   },
   {
+    "appid": 690120,
+    "name": "Inked: A Tale of Love",
+    "shortDescription": "Inked is a narrative-driven puzzle game set in a world of beautiful ballpoint pen-drawn landscapes. Playing as the Nameless Hero, you will solve intriguing puzzles while searching for your love Aiko.",
+    "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/690120/header.jpg?t=1710145258",
+    "capsuleImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/690120/capsule_231x87.jpg?t=1710145258",
+    "storeUrl": "https://store.steampowered.com/app/690120/",
+    "tags": [
+      "Hand-drawn",
+      "Casual",
+      "Adventure",
+      "Puzzle",
+      "Indie",
+      "Story Rich",
+      "Great Soundtrack",
+      "Puzzle Platformer"
+    ],
+    "genres": [
+      "Adventure",
+      "Casual",
+      "Indie"
+    ],
+    "isFree": false,
+    "price": "¥ 18.50",
+    "releaseDate": "27 Aug, 2021",
+    "lastModified": 1710145258,
+    "recommendationTotal": 255,
+    "ignUrl": "https://www.ign.com/games/inked-a-tale-of-love"
+  },
+  {
     "appid": 3360,
     "name": "Big Money! Deluxe",
     "shortDescription": "Here's your chance to strike it rich! Grab as much loot as you can before your pile of coins reaches the top of the window. If you move fast enough to fill the money meter, you'll score a moneybag. Collect enough bags, and you'll join the ranks of the rich and famous.",
@@ -166422,6 +166563,37 @@
     "lastModified": 1635015162,
     "recommendationTotal": 248,
     "ignUrl": "https://www.ign.com/games/silicon-zeroes"
+  },
+  {
+    "appid": 691390,
+    "name": "Alchemage",
+    "shortDescription": "Begin your otherworldly life from scratch—with nothing but a single magic staff in hand. Shape the world with your own hands, build the home you love, or unleash the powers of alchemy and magic to battle relentless monsters from beyond.Set forth, Warlock!",
+    "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/691390/e4082f876e6187f881d84c137c55fd42b8a5dd41/header.jpg?t=1788147770",
+    "capsuleImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/691390/cc4ae8236b1794e6c1e81090850e384e8adbe656/capsule_231x87.jpg?t=1788147770",
+    "storeUrl": "https://store.steampowered.com/app/691390/",
+    "tags": [
+      "Adventure",
+      "Indie",
+      "Action",
+      "Casual",
+      "Sandbox",
+      "2D",
+      "Pixel Graphics",
+      "Survival",
+      "Multiplayer"
+    ],
+    "genres": [
+      "Action",
+      "Adventure",
+      "Casual",
+      "Indie"
+    ],
+    "isFree": false,
+    "price": "¥ 36.00",
+    "releaseDate": "4 Nov, 2020",
+    "lastModified": 1788147770,
+    "recommendationTotal": 248,
+    "ignUrl": "https://www.ign.com/games/alchemage"
   },
   {
     "appid": 31880,
@@ -169242,6 +169414,35 @@
     "lastModified": 1488717619,
     "recommendationTotal": 237,
     "ignUrl": "https://www.ign.com/games/madout-open-city"
+  },
+  {
+    "appid": 691150,
+    "name": "Saku Saku: Love Blooms with the Cherry Blossoms",
+    "shortDescription": "A girl who cannot fall in love. A boy who has no interest in love. If they were to fall in love with each other, how would the world change? From Palette, developers of &quot;Mashiro Iro Symphony&quot;, comes the romantic school comedy, &quot;Saku Saku: Love Blooms with the Cherry Blossoms.&quot;",
+    "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/691150/header.jpg?t=1770338944",
+    "capsuleImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/691150/capsule_231x87.jpg?t=1770338944",
+    "storeUrl": "https://store.steampowered.com/app/691150/",
+    "tags": [
+      "Visual Novel",
+      "Sexual Content",
+      "Casual",
+      "Nudity",
+      "Anime",
+      "Cute",
+      "Story Rich",
+      "Multiple Endings",
+      "Choices Matter",
+      "Hentai"
+    ],
+    "genres": [
+      "Casual"
+    ],
+    "isFree": false,
+    "price": "¥ 76.00",
+    "releaseDate": "2 Oct, 2017",
+    "lastModified": 1770338944,
+    "recommendationTotal": 237,
+    "ignUrl": "https://www.ign.com/games/saku-saku-love-blooms-with-the-cherry-blossoms"
   },
   {
     "appid": 58200,
@@ -185284,6 +185485,43 @@
     "ignUrl": "https://www.ign.com/games/gone-in-november"
   },
   {
+    "appid": 690420,
+    "name": "Quickscoper Doge: The Dank Illuminati Memes",
+    "shortDescription": "The illuminati have stolen that dank memes, and it's up to you, Doge, to recover them! Be careful tho m8, as PewDiePie and Dat Boi are also after the memes!",
+    "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/690420/header.jpg?t=1591453233",
+    "capsuleImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/690420/capsule_231x87.jpg?t=1591453233",
+    "storeUrl": "https://store.steampowered.com/app/690420/",
+    "tags": [
+      "FPS",
+      "Memes",
+      "Action-Adventure",
+      "Funny",
+      "Dogs",
+      "Action",
+      "First-Person",
+      "Adventure",
+      "Indie",
+      "Singleplayer",
+      "3D",
+      "Comedy",
+      "Shooter",
+      "Parody",
+      "Satire",
+      "Psychological Horror"
+    ],
+    "genres": [
+      "Action",
+      "Adventure",
+      "Indie"
+    ],
+    "isFree": false,
+    "price": "¥ 18.00",
+    "releaseDate": "6 Jun, 2020",
+    "lastModified": 1591453233,
+    "recommendationTotal": 192,
+    "ignUrl": "https://www.ign.com/games/quickscoper-doge-the-dank-illuminati-memes"
+  },
+  {
     "appid": 51060,
     "name": "Drawn®: The Painted Tower",
     "shortDescription": "Enter the world of Drawn, and unravel the secrets of the Painted Tower. Overcome challenging puzzles on your quest to save Iris. A curse has locked each floor of the tower, and only the most creative adventurer can find a way through.",
@@ -185482,6 +185720,34 @@
     "lastModified": 1775506308,
     "recommendationTotal": 191,
     "ignUrl": "https://www.ign.com/games/dungeon-escape-vr"
+  },
+  {
+    "appid": 690740,
+    "name": "BOOKS",
+    "shortDescription": "Test your knowledge of the animal world!",
+    "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/690740/header.jpg?t=1637246085",
+    "capsuleImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/690740/capsule_231x87.jpg?t=1637246085",
+    "storeUrl": "https://store.steampowered.com/app/690740/",
+    "tags": [
+      "Casual",
+      "Indie",
+      "Puzzle",
+      "Education",
+      "Singleplayer",
+      "Short",
+      "Relaxing",
+      "Cute"
+    ],
+    "genres": [
+      "Casual",
+      "Indie"
+    ],
+    "isFree": false,
+    "price": "¥ 6.00",
+    "releaseDate": "23 Aug, 2017",
+    "lastModified": 1637246085,
+    "recommendationTotal": 191,
+    "ignUrl": "https://www.ign.com/games/books"
   },
   {
     "appid": 25930,
@@ -193899,6 +194165,48 @@
     "ignUrl": "https://www.ign.com/games/head-goal-soccer-online"
   },
   {
+    "appid": 692690,
+    "name": "Dance Collider",
+    "shortDescription": "It's your time to become a dance master and take down Uriel! Battle 9 of the best dancers from around the globe and compete on global leaderboards. Featuring 45 Songs by F-777 and a VR dance editor. Dance Collider is the ultimate dance and rhythm game.",
+    "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/692690/header.jpg?t=1604277956",
+    "capsuleImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/692690/capsule_231x87.jpg?t=1604277956",
+    "storeUrl": "https://store.steampowered.com/app/692690/",
+    "tags": [
+      "Indie",
+      "VR",
+      "Rhythm",
+      "Moddable",
+      "Arcade",
+      "Music",
+      "Level Editor",
+      "Casual",
+      "Futuristic",
+      "Action",
+      "Cyberpunk",
+      "Sci-fi",
+      "Anime",
+      "Boxing",
+      "Sports",
+      "Memes",
+      "Atmospheric",
+      "Music-Based Procedural Generation",
+      "Character Action Game",
+      "Beat 'em up"
+    ],
+    "genres": [
+      "Action",
+      "Casual",
+      "Indie",
+      "Sports"
+    ],
+    "isFree": false,
+    "price": "¥ 22.00",
+    "releaseDate": "1 Nov, 2019",
+    "lastModified": 1604277956,
+    "recommendationTotal": 170,
+    "ignUrl": "https://www.ign.com/games/dance-collider"
+  },
+  {
     "appid": 262240,
     "name": "SUGURI",
     "shortDescription": "Experience the rush of battle with the fan acclaimed Bullet-Hell shooter &quot;SUGURI&quot;. You're equipped with an automatic lock-on targeting system and a unique arsenal of hyper weapons, power shields, and more. Sure, she may look cute, but when it's time to fight, it's all business.",
@@ -197774,6 +198082,47 @@
     "ignUrl": "https://www.ign.com/games/skeleton-boomerang"
   },
   {
+    "appid": 693250,
+    "name": "Panda Run",
+    "shortDescription": "In this game your character is cute panda. Help Panda collect coins jumping on branches in the jungle. Also there is some rules in this strange jungle, you need to collect as much golden coins as you can see to pass 3 start barier at the end of a forest.",
+    "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/693250/header.jpg?t=1528049806",
+    "capsuleImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/693250/capsule_231x87.jpg?t=1528049806",
+    "storeUrl": "https://store.steampowered.com/app/693250/",
+    "tags": [
+      "Adventure",
+      "Casual",
+      "Indie",
+      "Action-Adventure",
+      "Arcade",
+      "Platformer",
+      "2D Platformer",
+      "Point &amp; Click",
+      "Collectathon",
+      "2D",
+      "Cartoon",
+      "Cartoony",
+      "Colorful",
+      "Cute",
+      "Family Friendly",
+      "Funny",
+      "Nature",
+      "Relaxing",
+      "Score Attack",
+      "Singleplayer"
+    ],
+    "genres": [
+      "Adventure",
+      "Casual",
+      "Indie"
+    ],
+    "isFree": false,
+    "price": "¥ 11.00",
+    "releaseDate": "31 Aug, 2017",
+    "lastModified": 1528049806,
+    "recommendationTotal": 162,
+    "ignUrl": "https://www.ign.com/games/panda-run"
+  },
+  {
     "appid": 254880,
     "name": "MoonBase Commander",
     "shortDescription": "Explore. Strategize. Conquer.In the far future, Mankind has nearly exhausted all of earth’s natural resources. Fragile alliances between nations are tested to their limits as fierce wars ignite across land and space.MoonBase Commander puts you in charge of your own lunar territory in a quest to build the most powerful empire in space.",
@@ -197855,6 +198204,38 @@
     "lastModified": 1744826709,
     "recommendationTotal": 161,
     "ignUrl": "https://www.ign.com/games/brilliant-shadows-part-one-of-the-book-of-gray-magic"
+  },
+  {
+    "appid": 691080,
+    "name": "3D Hardcore Cube",
+    "shortDescription": "3D Hardcore Cube - this is not an easy platformer in which you want to get to the portal and not to fall into the trap. The game has boosters traffic boosters bounce, anti bounce, falling cubes, turrets and more!",
+    "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/691080/header.jpg?t=1547379177",
+    "capsuleImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/691080/capsule_231x87.jpg?t=1547379177",
+    "storeUrl": "https://store.steampowered.com/app/691080/",
+    "tags": [
+      "Action",
+      "Indie",
+      "Puzzle",
+      "Singleplayer",
+      "Logic",
+      "Difficult",
+      "Relaxing",
+      "Music",
+      "Fast-Paced",
+      "Side Scroller",
+      "Casual",
+      "Atmospheric"
+    ],
+    "genres": [
+      "Action",
+      "Indie"
+    ],
+    "isFree": false,
+    "price": "¥ 15.00",
+    "releaseDate": "22 Aug, 2017",
+    "lastModified": 1547379177,
+    "recommendationTotal": 161,
+    "ignUrl": "https://www.ign.com/games/3d-hardcore-cube"
   },
   {
     "appid": 298240,
@@ -206789,6 +207170,34 @@
     "ignUrl": "https://www.ign.com/games/pro-gamer-manager-2"
   },
   {
+    "appid": 692930,
+    "name": "DreadEye VR",
+    "shortDescription": "DreadEye is a virtual reality experience that allows you to become an Indonesian shaman. Immerse yourself in terrifying experiences set in haunted rural Indonesia, and discover the gruesome horrors lurking in the shadows!",
+    "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/692930/530a16402bbbaaa7f0fb6f174e5bc38ab82c35d2/header.jpg?t=1789426296",
+    "capsuleImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/692930/9e6b54e4964ffb1d50b7e59ed3d7ef985dc1e8f7/capsule_231x87.jpg?t=1789426296",
+    "storeUrl": "https://store.steampowered.com/app/692930/",
+    "tags": [
+      "Action",
+      "Adventure",
+      "Indie",
+      "Violent",
+      "Gore",
+      "VR",
+      "Horror"
+    ],
+    "genres": [
+      "Action",
+      "Adventure",
+      "Indie"
+    ],
+    "isFree": false,
+    "price": "¥ 33.00",
+    "releaseDate": "28 Nov, 2017",
+    "lastModified": 1789426296,
+    "recommendationTotal": 143,
+    "ignUrl": "https://www.ign.com/games/dreadeye-vr"
+  },
+  {
     "appid": 291030,
     "name": "Always Remember Me",
     "shortDescription": "Amy is desperate! Her boyfriend Aaron doesn't remember her anymore after a car accident! Will you be able to make him remember again? Or perhaps it's time to move on. Maybe Amy will fall in love with someone else? It's up to you to decide. Play this life simulation game with dating sim elements and shape Amy's destiny.",
@@ -207261,6 +207670,49 @@
     "lastModified": 1501270461,
     "recommendationTotal": 142,
     "ignUrl": "https://www.ign.com/games/alien-splatter-redux"
+  },
+  {
+    "appid": 691630,
+    "name": "STELLATUM",
+    "shortDescription": "Equip your battleship's guns, install faster engines, and increase the power of your reactor. Throw a barrage of rockets on hordes of enemy ships, burning everything in your path!",
+    "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/691630/header.jpg?t=1760137466",
+    "capsuleImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/691630/capsule_231x87.jpg?t=1760137466",
+    "storeUrl": "https://store.steampowered.com/app/691630/",
+    "tags": [
+      "Shoot 'Em Up",
+      "Bullet Hell",
+      "Casual",
+      "Space",
+      "Robots",
+      "PvP",
+      "Real-Time",
+      "Character Customization",
+      "Shooter",
+      "Arcade",
+      "RPG",
+      "2D",
+      "Action",
+      "Simulation",
+      "Sci-fi",
+      "Atmospheric",
+      "Futuristic",
+      "Local Co-Op",
+      "Online Co-Op",
+      "Co-op"
+    ],
+    "genres": [
+      "Action",
+      "Casual",
+      "Indie",
+      "RPG",
+      "Simulation"
+    ],
+    "isFree": false,
+    "price": "¥ 15.00",
+    "releaseDate": "15 Sep, 2015",
+    "lastModified": 1760137466,
+    "recommendationTotal": 142,
+    "ignUrl": "https://www.ign.com/games/stellatum"
   },
   {
     "appid": 3415300,
@@ -209657,6 +210109,47 @@
     "lastModified": 1670374499,
     "recommendationTotal": 138,
     "ignUrl": "https://www.ign.com/games/crafting-dead"
+  },
+  {
+    "appid": 690560,
+    "name": "I Am Overburdened",
+    "shortDescription": "I Am Overburdened is a silly turn-based roguelike full of crazy artifacts and a &quot;hero&quot; who has 20 inventory slots.",
+    "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/690560/header.jpg?t=1693946224",
+    "capsuleImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/690560/capsule_231x87.jpg?t=1693946224",
+    "storeUrl": "https://store.steampowered.com/app/690560/",
+    "tags": [
+      "Roguelike",
+      "Turn-Based",
+      "Dungeon Crawler",
+      "RPG",
+      "Traditional Roguelike",
+      "Singleplayer",
+      "Top-Down",
+      "2D",
+      "Pixel Graphics",
+      "Casual",
+      "Fantasy",
+      "Funny",
+      "Loot",
+      "Perma Death",
+      "Replay Value",
+      "Puzzle",
+      "Procedural Generation",
+      "Comedy",
+      "Adventure",
+      "Indie"
+    ],
+    "genres": [
+      "Casual",
+      "Indie",
+      "RPG"
+    ],
+    "isFree": false,
+    "price": "¥ 22.00",
+    "releaseDate": "2 Nov, 2017",
+    "lastModified": 1693946224,
+    "recommendationTotal": 138,
+    "ignUrl": "https://www.ign.com/games/i-am-overburdened"
   },
   {
     "appid": 6210,
@@ -218394,6 +218887,40 @@
     "ignUrl": "https://www.ign.com/games/the-chosen-warriors"
   },
   {
+    "appid": 694370,
+    "name": "Space Pilgrim Academy: Year 1",
+    "shortDescription": "Latona Research Station has been destroyed by unknown assailants. The only survivor is a young girl who was rescued by the Starship Quicksilver and her renowned captain.",
+    "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/694370/header.jpg?t=1788351736",
+    "capsuleImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/694370/capsule_231x87.jpg?t=1788351736",
+    "storeUrl": "https://store.steampowered.com/app/694370/",
+    "tags": [
+      "Adventure",
+      "Indie",
+      "Space",
+      "Story Rich",
+      "Sci-fi",
+      "Family Friendly",
+      "Singleplayer",
+      "2D",
+      "Female Protagonist",
+      "Atmospheric",
+      "RPG",
+      "Point &amp; Click",
+      "Great Soundtrack",
+      "JRPG"
+    ],
+    "genres": [
+      "Adventure",
+      "Indie"
+    ],
+    "isFree": false,
+    "price": "¥ 11.00",
+    "releaseDate": "6 Oct, 2017",
+    "lastModified": 1788351736,
+    "recommendationTotal": 125,
+    "ignUrl": "https://www.ign.com/games/space-pilgrim-academy-year-1"
+  },
+  {
     "appid": 34420,
     "name": "XIII Century – Gold Edition",
     "shortDescription": "XIII Century Gold Edition combines the highly successful strategy game XIII Century: Death or Glory with the follow-up sequel, XIII Century: Blood of Europe.XIII Century: Death or Glory is an RTS game which immerses players in the Middle Ages.",
@@ -223581,6 +224108,26 @@
     "lastModified": 1538145664,
     "recommendationTotal": 116,
     "ignUrl": "https://www.ign.com/games/mad-crown"
+  },
+  {
+    "appid": 690620,
+    "name": "Downward Spiral: Horus Station",
+    "shortDescription": "Downward Spiral: Horus Station is a mysterious and atmospheric zero gravity thriller set in the lost and forgotten Horus Station.",
+    "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/690620/header.jpg?t=1543337077",
+    "capsuleImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/690620/capsule_231x87.jpg?t=1543337077",
+    "storeUrl": "https://store.steampowered.com/app/690620/",
+    "tags": [],
+    "genres": [
+      "Action",
+      "Adventure",
+      "Indie"
+    ],
+    "isFree": false,
+    "price": "¥ 70.00",
+    "releaseDate": "31 May, 2018",
+    "lastModified": 1543337077,
+    "recommendationTotal": 116,
+    "ignUrl": "https://www.ign.com/games/downward-spiral-horus-station"
   },
   {
     "appid": 73190,
@@ -234259,6 +234806,49 @@
     "lastModified": 1789476332,
     "recommendationTotal": 101,
     "ignUrl": "https://www.ign.com/games/holy-potatoes-what-the-hell"
+  },
+  {
+    "appid": 692200,
+    "name": "aMAZE Dark Times",
+    "shortDescription": "aMAZE Dark Times is a straightforward and surprisingly-difficult celebration of the simple beauty of the maze with cool soundtrack and timer!",
+    "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/692200/header.jpg?t=1789487298",
+    "capsuleImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/692200/capsule_231x87.jpg?t=1789487298",
+    "storeUrl": "https://store.steampowered.com/app/692200/",
+    "tags": [
+      "Singleplayer",
+      "Puzzle",
+      "2D",
+      "Colorful",
+      "Abstract",
+      "Strategy",
+      "Fast-Paced",
+      "Atmospheric",
+      "Side Scroller",
+      "Old School",
+      "Physics",
+      "Retro",
+      "Difficult",
+      "Stylized",
+      "Cute",
+      "Adventure",
+      "Simulation",
+      "Family Friendly",
+      "Short",
+      "Replay Value"
+    ],
+    "genres": [
+      "Adventure",
+      "Casual",
+      "Indie",
+      "Simulation",
+      "Strategy"
+    ],
+    "isFree": false,
+    "price": "¥ 11.00",
+    "releaseDate": "17 Aug, 2017",
+    "lastModified": 1789487298,
+    "recommendationTotal": 101,
+    "ignUrl": "https://www.ign.com/games/amaze-dark-times"
   },
   {
     "appid": 1002,
@@ -418382,40 +418972,6 @@
     "ignUrl": "https://www.ign.com/games/cartesian"
   },
   {
-    "appid": 596500,
-    "name": "Chippy & Noppo",
-    "shortDescription": "Chippy is good in low places and Noppo is good at jumping. It is an action puzzle where two guys work together to make a toy with a theme! What kind of toys are those two really good friends going to make,and what kind of future are they going to make?",
-    "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/596500/header.jpg?t=1765428459",
-    "capsuleImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/596500/capsule_231x87.jpg?t=1765428459",
-    "storeUrl": "https://store.steampowered.com/app/596500/",
-    "tags": [
-      "Action",
-      "Puzzle",
-      "Casual",
-      "Cute",
-      "Family Friendly",
-      "Singleplayer",
-      "Local Multiplayer",
-      "Local Co-Op",
-      "Co-op",
-      "Puzzle Platformer",
-      "Education",
-      "Multiplayer",
-      "Indie"
-    ],
-    "genres": [
-      "Action",
-      "Casual",
-      "Indie"
-    ],
-    "isFree": false,
-    "price": "¥ 76.00",
-    "releaseDate": "8 Mar, 2023",
-    "lastModified": 1765428459,
-    "recommendationTotal": 0,
-    "ignUrl": "https://www.ign.com/games/chippy-and-noppo"
-  },
-  {
     "appid": 596530,
     "name": "Chaos Drift",
     "shortDescription": "Chaos Drift is a nostalgic RPG experience. As you trek through the past, present, and future to stop Chaos from overtaking the timeline, you will encounter mysteries that cause your characters to come face to face with dark truths that will shape each of their realities.",
@@ -483382,6 +483938,90 @@
     "ignUrl": "https://www.ign.com/games/fallalypse"
   },
   {
+    "appid": 689600,
+    "name": "Little Earth",
+    "shortDescription": "An educational VR experience about the solar-system. Meet little animals and learn about the seasons.",
+    "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/689600/header.jpg?t=1503449665",
+    "capsuleImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/689600/capsule_231x87.jpg?t=1503449665",
+    "storeUrl": "https://store.steampowered.com/app/689600/",
+    "tags": [
+      "Simulation",
+      "Indie",
+      "Early Access",
+      "Casual",
+      "VR"
+    ],
+    "genres": [
+      "Casual",
+      "Indie",
+      "Simulation",
+      "Early Access"
+    ],
+    "isFree": false,
+    "price": "¥ 21.00",
+    "releaseDate": "22 Aug, 2017",
+    "lastModified": 1503449665,
+    "recommendationTotal": 0,
+    "ignUrl": "https://www.ign.com/games/little-earth"
+  },
+  {
+    "appid": 689610,
+    "name": "Hunt 'n Sneak",
+    "shortDescription": "Hunt ‘n Sneak is a manic online and local multiplayer game for 2-4 players. Think hide and seek with a twist – where only the hunter is visible, and the map is shrouded in darkness. As a hiding Pixie you emit a light to reveal yourself and your surroundings, but beware… you never know who is watching!",
+    "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/689610/header.jpg?t=1724200059",
+    "capsuleImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/689610/capsule_231x87.jpg?t=1724200059",
+    "storeUrl": "https://store.steampowered.com/app/689610/",
+    "tags": [
+      "Casual",
+      "Action",
+      "Indie",
+      "Stealth",
+      "Multiplayer",
+      "Local Multiplayer",
+      "Co-op"
+    ],
+    "genres": [
+      "Action",
+      "Casual",
+      "Indie"
+    ],
+    "isFree": false,
+    "price": "¥ 28.00",
+    "releaseDate": "9 Apr, 2019",
+    "lastModified": 1724200059,
+    "recommendationTotal": 0,
+    "ignUrl": "https://www.ign.com/games/hunt-n-sneak"
+  },
+  {
+    "appid": 689620,
+    "name": "Alpha Mike Foxtrot VR - AMF VR",
+    "shortDescription": "Get ready for the Next Generation in Virtual Reality First Person Shooters! Focusing on fast-paced gameplay and immersive environments, Alpha Mike Foxtrot VR (AMF VR) delivers the goods. Put on your headset and engage in all-out warfare with Bots, Friends (or Enemies) around the globe.",
+    "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/689620/header.jpg?t=1525709678",
+    "capsuleImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/689620/capsule_231x87.jpg?t=1525709678",
+    "storeUrl": "https://store.steampowered.com/app/689620/",
+    "tags": [
+      "Action",
+      "Indie",
+      "Simulation",
+      "Violent",
+      "VR",
+      "FPS",
+      "Early Access"
+    ],
+    "genres": [
+      "Violent",
+      "Action",
+      "Indie",
+      "Simulation"
+    ],
+    "isFree": false,
+    "price": "¥ 37.00",
+    "releaseDate": "7 May, 2018",
+    "lastModified": 1525709678,
+    "recommendationTotal": 0,
+    "ignUrl": "https://www.ign.com/games/alpha-mike-foxtrot-vr-amf-vr"
+  },
+  {
     "appid": 689660,
     "name": "Without A Roof (W.A.R.)",
     "shortDescription": "Hunt, or be hunted - W.A.R. is a Survival Sandbox with many features. Play survival your way: Hunting Zombies, Crafting recipes, Procedural cities, Fortifying Buildings, Player Traps, Base building with multiplayer survival!",
@@ -483424,6 +484064,3449 @@
     "lastModified": 1579831195,
     "recommendationTotal": 0,
     "ignUrl": "https://www.ign.com/games/without-a-roof-w-a-r"
+  },
+  {
+    "appid": 689680,
+    "name": "Memories",
+    "shortDescription": "A third person double main character adventure-puzzle solving game.Figure out what they forgot and find a way out.",
+    "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/689680/header.jpg?t=1511042798",
+    "capsuleImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/689680/capsule_231x87.jpg?t=1511042798",
+    "storeUrl": "https://store.steampowered.com/app/689680/",
+    "tags": [
+      "Violent",
+      "Adventure"
+    ],
+    "genres": [
+      "Violent",
+      "Adventure"
+    ],
+    "isFree": false,
+    "price": "¥ 21.00",
+    "releaseDate": "18 Nov, 2017",
+    "lastModified": 1511042798,
+    "recommendationTotal": 0,
+    "ignUrl": "https://www.ign.com/games/memories"
+  },
+  {
+    "appid": 689710,
+    "name": "Hop Step Sing! Kimamani☆Summer vacation (HQ Edition)",
+    "shortDescription": "Take a trip to the beach with the members of Hop Step Sing! In the 3rd song from our VR idol group, the viewer can be a part of the story; the conclusion all depends on who you were watching... Are you ready to join your three singing and dancing companions on their carefree summer vacation?",
+    "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/689710/header.jpg?t=1723879582",
+    "capsuleImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/689710/capsule_231x87.jpg?t=1723879582",
+    "storeUrl": "https://store.steampowered.com/app/689710/",
+    "tags": [
+      "Rhythm",
+      "Female Protagonist",
+      "360 Video",
+      "Cute",
+      "VR",
+      "First-Person",
+      "Linear",
+      "Relaxing",
+      "Wholesome",
+      "Casual",
+      "Simulation",
+      "Anime",
+      "6DOF",
+      "Colorful",
+      "Family Friendly",
+      "Stylized",
+      "Adventure",
+      "Singleplayer",
+      "Immersive",
+      "Music"
+    ],
+    "genres": [
+      "Casual"
+    ],
+    "isFree": false,
+    "price": "¥ 29.00",
+    "releaseDate": "17 Aug, 2017",
+    "lastModified": 1723879582,
+    "recommendationTotal": 0,
+    "ignUrl": "https://www.ign.com/games/hop-step-sing-kimamani-summer-vacation-hq-edition"
+  },
+  {
+    "appid": 689720,
+    "name": "Gangsta Underground : The Poker",
+    "shortDescription": "Gangsta Underground : The Poker is a gangsters heads up poker league which takes place in a dark backstreet. Win the game to take all bets from the loser and kill him with a gun.",
+    "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/689720/header.jpg?t=1749556096",
+    "capsuleImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/689720/capsule_231x87.jpg?t=1749556096",
+    "storeUrl": "https://store.steampowered.com/app/689720/",
+    "tags": [
+      "Free to Play",
+      "Indie",
+      "Casual",
+      "Strategy",
+      "VR",
+      "Realistic"
+    ],
+    "genres": [
+      "Casual",
+      "Indie",
+      "Strategy",
+      "Free To Play"
+    ],
+    "isFree": true,
+    "price": "免费",
+    "releaseDate": "3 May, 2020",
+    "lastModified": 1749556096,
+    "recommendationTotal": 0,
+    "ignUrl": "https://www.ign.com/games/gangsta-underground-the-poker"
+  },
+  {
+    "appid": 689740,
+    "name": "Mystery Loss",
+    "shortDescription": "Help! A little pretty сanary is lost! Join Grandmother-detective and her funny cat Leonardo in their investigation of the mysterious kidnapping. Play match-3 and HO levels, find pieces of evidence and track down the villain who dared to hurt innocent little bird!",
+    "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/689740/header.jpg?t=1508336500",
+    "capsuleImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/689740/capsule_231x87.jpg?t=1508336500",
+    "storeUrl": "https://store.steampowered.com/app/689740/",
+    "tags": [
+      "Casual",
+      "Match 3",
+      "Hidden Object",
+      "Family Friendly",
+      "Puzzle"
+    ],
+    "genres": [
+      "Casual"
+    ],
+    "isFree": false,
+    "price": "¥ 31.00",
+    "releaseDate": "21 Sep, 2017",
+    "lastModified": 1508336500,
+    "recommendationTotal": 0,
+    "ignUrl": "https://www.ign.com/games/mystery-loss"
+  },
+  {
+    "appid": 689830,
+    "name": "DUELEUM",
+    "shortDescription": "DUELEUM is an action game that fights enemies by making full use of magic and sword. Let's survive using various techniques.",
+    "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/689830/header.jpg?t=1531059972",
+    "capsuleImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/689830/capsule_231x87.jpg?t=1531059972",
+    "storeUrl": "https://store.steampowered.com/app/689830/",
+    "tags": [
+      "Free to Play",
+      "Early Access",
+      "Action",
+      "VR"
+    ],
+    "genres": [
+      "Action",
+      "Free To Play",
+      "Early Access"
+    ],
+    "isFree": true,
+    "price": "免费",
+    "releaseDate": "15 Sep, 2017",
+    "lastModified": 1531059972,
+    "recommendationTotal": 0,
+    "ignUrl": "https://www.ign.com/games/dueleum"
+  },
+  {
+    "appid": 689880,
+    "name": "Bee Aware! 2.0",
+    "shortDescription": "Bee Aware! Not just another Bee Game! Help the bees get rid of all the bad, bad industrialists on every continent with the use of bags of biological pest control. Earn these bags by playing eight minigames. Games that will surely fit the needs of every casual gamer!",
+    "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/689880/header.jpg?t=1747580454",
+    "capsuleImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/689880/capsule_231x87.jpg?t=1747580454",
+    "storeUrl": "https://store.steampowered.com/app/689880/",
+    "tags": [
+      "Casual",
+      "Indie",
+      "Psychological Horror",
+      "Puzzle",
+      "Incremental",
+      "Arcade",
+      "Retro",
+      "Funny",
+      "Singleplayer"
+    ],
+    "genres": [
+      "Casual",
+      "Indie"
+    ],
+    "isFree": false,
+    "price": "¥ 11.00",
+    "releaseDate": "31 Aug, 2018",
+    "lastModified": 1747580454,
+    "recommendationTotal": 0,
+    "ignUrl": "https://www.ign.com/games/bee-aware-2-0"
+  },
+  {
+    "appid": 690000,
+    "name": "Slimebrawl",
+    "shortDescription": "Slimebrawl is a 3D melee brawler game focused on quick action and fast rounds. Select your character, customize your appearance, choose your heirloom and get ready to brawl. Play in 2-4 player matches and collect the most slime at the end of the game to win.",
+    "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/690000/header.jpg?t=1511201936",
+    "capsuleImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/690000/capsule_231x87.jpg?t=1511201936",
+    "storeUrl": "https://store.steampowered.com/app/690000/",
+    "tags": [
+      "Casual",
+      "Action",
+      "Indie",
+      "4 Player Local",
+      "Local Multiplayer",
+      "Funny"
+    ],
+    "genres": [
+      "Action",
+      "Casual",
+      "Indie"
+    ],
+    "isFree": false,
+    "price": "¥ 15.00",
+    "releaseDate": "20 Nov, 2017",
+    "lastModified": 1511201936,
+    "recommendationTotal": 0,
+    "ignUrl": "https://www.ign.com/games/slimebrawl"
+  },
+  {
+    "appid": 690060,
+    "name": "SORE",
+    "shortDescription": "Mystical puzzle quest game in a gloomy minimalism style will tell you a story of a person who's got himself into a camera, and from which there is no way out it seems. Experimental gameplay diluted with a pinch of a philosophy, that's what SORE is.",
+    "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/690060/header.jpg?t=1667047177",
+    "capsuleImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/690060/capsule_231x87.jpg?t=1667047177",
+    "storeUrl": "https://store.steampowered.com/app/690060/",
+    "tags": [
+      "Free to Play",
+      "Indie",
+      "Puzzle",
+      "Pixel Graphics",
+      "Atmospheric",
+      "Minimalist",
+      "Psychological Horror",
+      "Short",
+      "Experimental",
+      "Singleplayer",
+      "Controller",
+      "Linear",
+      "Silent Protagonist",
+      "Casual",
+      "Adventure",
+      "Side Scroller",
+      "Puzzle Platformer",
+      "Exploration",
+      "Hidden Object",
+      "2D"
+    ],
+    "genres": [
+      "Free To Play",
+      "Indie"
+    ],
+    "isFree": true,
+    "price": "免费",
+    "releaseDate": "5 Oct, 2017",
+    "lastModified": 1667047177,
+    "recommendationTotal": 0,
+    "ignUrl": "https://www.ign.com/games/sore"
+  },
+  {
+    "appid": 690080,
+    "name": "Deadly Traps",
+    "shortDescription": "Battle yourself through dangerous traps in this fast-paced platformer.",
+    "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/690080/header.jpg?t=1726739701",
+    "capsuleImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/690080/capsule_231x87.jpg?t=1726739701",
+    "storeUrl": "https://store.steampowered.com/app/690080/",
+    "tags": [
+      "Action",
+      "Indie",
+      "Platformer",
+      "Singleplayer",
+      "2D",
+      "Difficult"
+    ],
+    "genres": [
+      "Action",
+      "Indie"
+    ],
+    "isFree": false,
+    "price": "¥ 3.00",
+    "releaseDate": "29 Aug, 2017",
+    "lastModified": 1726739701,
+    "recommendationTotal": 0,
+    "ignUrl": "https://www.ign.com/games/deadly-traps"
+  },
+  {
+    "appid": 690130,
+    "name": "FlatFatCat",
+    "shortDescription": "Relax with cats! FlatFatCat is an amusing cat billiard game that creates addiction and is super cute. Just look at those Chihuahuas :) The ideal game for casual players, who seek for small challenges combined with a cute gameplay.",
+    "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/690130/header.jpg?t=1618837762",
+    "capsuleImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/690130/capsule_231x87.jpg?t=1618837762",
+    "storeUrl": "https://store.steampowered.com/app/690130/",
+    "tags": [
+      "Casual",
+      "Indie",
+      "Action",
+      "Family Friendly",
+      "Puzzle",
+      "2D",
+      "Physics",
+      "Cats",
+      "Singleplayer",
+      "Difficult",
+      "Funny",
+      "Comedy",
+      "Great Soundtrack",
+      "Atmospheric"
+    ],
+    "genres": [
+      "Action",
+      "Casual",
+      "Indie"
+    ],
+    "isFree": false,
+    "price": "¥ 15.00",
+    "releaseDate": "15 Aug, 2017",
+    "lastModified": 1618837762,
+    "recommendationTotal": 0,
+    "ignUrl": "https://www.ign.com/games/flatfatcat"
+  },
+  {
+    "appid": 690220,
+    "name": "Call Me Skyfish",
+    "shortDescription": "Call Me Skyfish is a game about a fish, a stick-figure hedgehog, and a long tongue.",
+    "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/690220/header.jpg?t=1658928106",
+    "capsuleImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/690220/capsule_231x87.jpg?t=1658928106",
+    "storeUrl": "https://store.steampowered.com/app/690220/",
+    "tags": [
+      "Action"
+    ],
+    "genres": [
+      "Action"
+    ],
+    "isFree": true,
+    "price": "免费",
+    "releaseDate": "15 Aug, 2017",
+    "lastModified": 1658928106,
+    "recommendationTotal": 0,
+    "ignUrl": "https://www.ign.com/games/call-me-skyfish"
+  },
+  {
+    "appid": 690240,
+    "name": "Trivia Vault: Classic Rock Trivia",
+    "shortDescription": "Play as a contestant in a gameshow called Trivia Vault Classic Rock Trivia. Answer classic rock trivia questions as quickly as you can, the faster you answer the higher the cash value. Correct answers lock in the digit code for the vault, 10 correct answers cracks the vault and awards bonus cash.",
+    "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/690240/header.jpg?t=1639608071",
+    "capsuleImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/690240/capsule_231x87.jpg?t=1639608071",
+    "storeUrl": "https://store.steampowered.com/app/690240/",
+    "tags": [
+      "Casual",
+      "Strategy",
+      "Action",
+      "Simulation",
+      "Indie",
+      "Trivia",
+      "Text-Based",
+      "Relaxing",
+      "Puzzle",
+      "1990's",
+      "1980s",
+      "2D",
+      "Retro",
+      "Singleplayer",
+      "Replay Value",
+      "Family Friendly",
+      "Choices Matter",
+      "Music",
+      "Story Rich"
+    ],
+    "genres": [
+      "Action",
+      "Casual",
+      "Indie",
+      "Simulation",
+      "Strategy"
+    ],
+    "isFree": false,
+    "price": "¥ 56.00",
+    "releaseDate": "17 Aug, 2017",
+    "lastModified": 1639608071,
+    "recommendationTotal": 0,
+    "ignUrl": "https://www.ign.com/games/trivia-vault-classic-rock-trivia"
+  },
+  {
+    "appid": 690260,
+    "name": "Tower Miners",
+    "shortDescription": "Tower Miners is a local multiplayer game. Mixed out of strategy, tower defense and random party game genre.The goal is to beat your enemy by destroying his base. Also additional game modes are on the way",
+    "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/690260/header.jpg?t=1532934953",
+    "capsuleImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/690260/capsule_231x87.jpg?t=1532934953",
+    "storeUrl": "https://store.steampowered.com/app/690260/",
+    "tags": [
+      "Action",
+      "Casual",
+      "Indie",
+      "Strategy",
+      "Local Multiplayer",
+      "Tower Defense",
+      "Tactical",
+      "Pixel Graphics",
+      "2D",
+      "Competitive",
+      "Retro",
+      "Arena Shooter",
+      "Logic",
+      "Real-Time with Pause",
+      "Arcade",
+      "PvP",
+      "Real Time Tactics",
+      "RTS",
+      "Controller",
+      "Minigames"
+    ],
+    "genres": [
+      "Action",
+      "Casual",
+      "Indie",
+      "Strategy"
+    ],
+    "isFree": false,
+    "price": "¥ 15.00",
+    "releaseDate": "15 Sep, 2017",
+    "lastModified": 1532934953,
+    "recommendationTotal": 0,
+    "ignUrl": "https://www.ign.com/games/tower-miners"
+  },
+  {
+    "appid": 690290,
+    "name": "Territory Control 2",
+    "shortDescription": "A 2D multiplayer sandbox game revolving around industry, innovation, factions, combat and emergent gameplay. Design factories, customize tools and weapons, fight or trade with other players or get viciously murdered by an angry badger.",
+    "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/690290/045430af4d956376abea05cad2a414459db34771/header.jpg?t=1776636857",
+    "capsuleImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/690290/ed380f1da06377e6d436d042e686d7083ce94dbc/capsule_231x87.jpg?t=1776636857",
+    "storeUrl": "https://store.steampowered.com/app/690290/",
+    "tags": [
+      "Base Building",
+      "Resource Management",
+      "Physics",
+      "Gun Customization",
+      "Crafting",
+      "Multiplayer",
+      "Sandbox",
+      "Early Access",
+      "Action",
+      "Simulation",
+      "Lore-Rich",
+      "Building",
+      "PvP",
+      "Military",
+      "Dark Humor",
+      "4X",
+      "Destruction",
+      "Wargame",
+      "Pixel Graphics",
+      "2D"
+    ],
+    "genres": [
+      "Action",
+      "Indie",
+      "RPG",
+      "Simulation",
+      "Strategy",
+      "Early Access"
+    ],
+    "isFree": false,
+    "price": "¥ 76.00",
+    "releaseDate": "23 Feb, 2026",
+    "lastModified": 1776636857,
+    "recommendationTotal": 0,
+    "ignUrl": "https://www.ign.com/games/territory-control-2"
+  },
+  {
+    "appid": 690320,
+    "name": "Snake-A-Roid",
+    "shortDescription": "Vector-like Arcade action!",
+    "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/690320/header.jpg?t=1763481687",
+    "capsuleImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/690320/91e55eaf025ddd2b4f642bec7f363992d9fa05ff/capsule_231x87.jpg?t=1763481687",
+    "storeUrl": "https://store.steampowered.com/app/690320/",
+    "tags": [
+      "Arena Shooter",
+      "Arcade",
+      "2D",
+      "Action",
+      "Minimalist",
+      "Stylized",
+      "Score Attack",
+      "Old School",
+      "Retro",
+      "Singleplayer",
+      "Indie"
+    ],
+    "genres": [
+      "Action",
+      "Indie"
+    ],
+    "isFree": false,
+    "price": "¥ 22.00",
+    "releaseDate": "18 Nov, 2025",
+    "lastModified": 1763481687,
+    "recommendationTotal": 0,
+    "ignUrl": "https://www.ign.com/games/snake-a-roid"
+  },
+  {
+    "appid": 690350,
+    "name": "Endless Combat",
+    "shortDescription": "Endless Combat, is a coop game which is about fighting as characters with unique skills against zombies, the game also contains free for all mode",
+    "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/690350/header.jpg?t=1729894040",
+    "capsuleImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/690350/capsule_231x87.jpg?t=1729894040",
+    "storeUrl": "https://store.steampowered.com/app/690350/",
+    "tags": [
+      "Action",
+      "Indie",
+      "Early Access",
+      "Casual",
+      "Local Multiplayer",
+      "Funny",
+      "Zombies"
+    ],
+    "genres": [
+      "Action",
+      "Casual",
+      "Indie",
+      "Early Access"
+    ],
+    "isFree": true,
+    "price": "免费",
+    "releaseDate": "12 Nov, 2017",
+    "lastModified": 1729894040,
+    "recommendationTotal": 0,
+    "ignUrl": "https://www.ign.com/games/endless-combat"
+  },
+  {
+    "appid": 690400,
+    "name": "Rainbow Step",
+    "shortDescription": "Teru Teru Bouzu, with the mysterious ability to clear the rain, journeys though the world in this 3D adventure game. Why is it always raining in this magical world? Solve the mystery by using the mysterious ability to clear the rain while riding rainbows to explore this magical world.",
+    "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/690400/header.jpg?t=1508410960",
+    "capsuleImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/690400/capsule_231x87.jpg?t=1508410960",
+    "storeUrl": "https://store.steampowered.com/app/690400/",
+    "tags": [
+      "Action",
+      "Adventure",
+      "Indie"
+    ],
+    "genres": [
+      "Action",
+      "Adventure",
+      "Indie"
+    ],
+    "isFree": false,
+    "price": "¥ 15.00",
+    "releaseDate": "28 Sep, 2017",
+    "lastModified": 1508410960,
+    "recommendationTotal": 0,
+    "ignUrl": "https://www.ign.com/games/rainbow-step"
+  },
+  {
+    "appid": 690410,
+    "name": "Twisted: Enhanced Edition",
+    "shortDescription": "Twisted:EE is an action-platformer game combined with the best gameplay elements like time and object manipulation, clever enemies, traps and other challenges.",
+    "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/690410/header.jpg?t=1594380892",
+    "capsuleImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/690410/capsule_231x87.jpg?t=1594380892",
+    "storeUrl": "https://store.steampowered.com/app/690410/",
+    "tags": [
+      "Action",
+      "Indie",
+      "Early Access",
+      "Platformer",
+      "Side Scroller"
+    ],
+    "genres": [
+      "Action",
+      "Indie",
+      "Early Access"
+    ],
+    "isFree": false,
+    "price": "¥ 37.00",
+    "releaseDate": "26 Apr, 2018",
+    "lastModified": 1594380892,
+    "recommendationTotal": 0,
+    "ignUrl": "https://www.ign.com/games/twisted-enhanced-edition"
+  },
+  {
+    "appid": 690440,
+    "name": "Korvae in space",
+    "shortDescription": "Solve puzzles and shoot enemies in this fun little indie game.",
+    "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/690440/header.jpg?t=1536820515",
+    "capsuleImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/690440/capsule_231x87.jpg?t=1536820515",
+    "storeUrl": "https://store.steampowered.com/app/690440/",
+    "tags": [
+      "Action",
+      "Indie",
+      "Puzzle Platformer"
+    ],
+    "genres": [
+      "Action",
+      "Indie"
+    ],
+    "isFree": false,
+    "price": "¥ 6.00",
+    "releaseDate": "25 Aug, 2017",
+    "lastModified": 1536820515,
+    "recommendationTotal": 0,
+    "ignUrl": "https://www.ign.com/games/korvae-in-space"
+  },
+  {
+    "appid": 690500,
+    "name": "In the Village of Grandfather: Summer,Sun,Heat.",
+    "shortDescription": "Harvest. Take care of the territory. Prepare the perfect vegetable garden.",
+    "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/690500/header.jpg?t=1771860490",
+    "capsuleImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/690500/capsule_231x87.jpg?t=1771860490",
+    "storeUrl": "https://store.steampowered.com/app/690500/",
+    "tags": [
+      "Action",
+      "RPG",
+      "Indie",
+      "Simulation",
+      "Adventure"
+    ],
+    "genres": [
+      "Action",
+      "Adventure",
+      "Indie",
+      "RPG",
+      "Simulation"
+    ],
+    "isFree": false,
+    "price": "¥ 6.00",
+    "releaseDate": "20 Jul, 2023",
+    "lastModified": 1771860490,
+    "recommendationTotal": 0,
+    "ignUrl": "https://www.ign.com/games/in-the-village-of-grandfather-summer-sun-heat"
+  },
+  {
+    "appid": 690550,
+    "name": "Pogo",
+    "shortDescription": "Hold on tight it's time to bounce! Pogo is a goofy yet challenging 3D physics platformer that will make you laugh with joy and cry with frustration.",
+    "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/690550/header.jpg?t=1548385029",
+    "capsuleImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/690550/capsule_231x87.jpg?t=1548385029",
+    "storeUrl": "https://store.steampowered.com/app/690550/",
+    "tags": [
+      "Indie",
+      "Action",
+      "Physics",
+      "3D Platformer",
+      "Difficult"
+    ],
+    "genres": [
+      "Action",
+      "Indie"
+    ],
+    "isFree": false,
+    "price": "¥ 22.00",
+    "releaseDate": "21 Dec, 2018",
+    "lastModified": 1548385029,
+    "recommendationTotal": 0,
+    "ignUrl": "https://www.ign.com/games/pogo"
+  },
+  {
+    "appid": 690570,
+    "name": "Drone Racer: Canyons",
+    "shortDescription": "Challenge your reflexes and skills in this unique Drone Racing game! Race your friends in exciting 1vs1 Battles! Also finish career mode by completing challenging levels!",
+    "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/690570/header.jpg?t=1504016028",
+    "capsuleImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/690570/capsule_231x87.jpg?t=1504016028",
+    "storeUrl": "https://store.steampowered.com/app/690570/",
+    "tags": [
+      "Casual",
+      "Racing",
+      "Indie",
+      "Multiplayer"
+    ],
+    "genres": [
+      "Casual",
+      "Indie",
+      "Racing"
+    ],
+    "isFree": false,
+    "price": "¥ 6.00",
+    "releaseDate": "29 Aug, 2017",
+    "lastModified": 1504016028,
+    "recommendationTotal": 0,
+    "ignUrl": "https://www.ign.com/games/drone-racer-canyons"
+  },
+  {
+    "appid": 690580,
+    "name": "Evil Spirits",
+    "shortDescription": "Tom and his friends went on vacation on a beautiful tropical island. Where they met a tribe of friendly Aborigines, the leader of the natives told a wonderful story that will change their whole life.",
+    "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/690580/header.jpg?t=1550659061",
+    "capsuleImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/690580/capsule_231x87.jpg?t=1550659061",
+    "storeUrl": "https://store.steampowered.com/app/690580/",
+    "tags": [
+      "Action",
+      "Adventure",
+      "Simulation",
+      "Horror",
+      "Violent",
+      "FPS",
+      "Singleplayer",
+      "Funny",
+      "Great Soundtrack",
+      "Shooter",
+      "Zombies",
+      "Survival",
+      "Moddable",
+      "War",
+      "Puzzle",
+      "Atmospheric",
+      "Military",
+      "Competitive",
+      "Modern",
+      "Linear"
+    ],
+    "genres": [
+      "Action",
+      "Adventure",
+      "Simulation"
+    ],
+    "isFree": false,
+    "price": "¥ 6.00",
+    "releaseDate": "24 Aug, 2017",
+    "lastModified": 1550659061,
+    "recommendationTotal": 0,
+    "ignUrl": "https://www.ign.com/games/evil-spirits"
+  },
+  {
+    "appid": 690630,
+    "name": "Light Fantastik",
+    "shortDescription": "Light is fantastic isn't it? but what if you can jump higher in the dark with inverted controls.",
+    "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/690630/header.jpg?t=1527250917",
+    "capsuleImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/690630/capsule_231x87.jpg?t=1527250917",
+    "storeUrl": "https://store.steampowered.com/app/690630/",
+    "tags": [
+      "Indie",
+      "Platformer",
+      "Puzzle",
+      "Minimalist",
+      "Difficult"
+    ],
+    "genres": [
+      "Indie"
+    ],
+    "isFree": false,
+    "price": "¥ 18.00",
+    "releaseDate": "12 Mar, 2018",
+    "lastModified": 1527250917,
+    "recommendationTotal": 0,
+    "ignUrl": "https://www.ign.com/games/light-fantastik"
+  },
+  {
+    "appid": 690710,
+    "name": "HEIANKYO ALIEN / 平安京エイリアン",
+    "shortDescription": "The Heiankyo Alien, developed on a personal computer and released in 1979 as an arcade game from Denki Onkyo, is now ported and arranged for Windows! Arranged version &quot;Heiankyo Alien 3671&quot; is a time-based game, overwhelmingly addictive and euphoric, with new features such as seven items buried in the field, various scoring...",
+    "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/690710/header.jpg?t=1740436301",
+    "capsuleImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/690710/capsule_231x87.jpg?t=1740436301",
+    "storeUrl": "https://store.steampowered.com/app/690710/",
+    "tags": [
+      "Action",
+      "Indie",
+      "Arcade",
+      "Pixel Graphics",
+      "Retro"
+    ],
+    "genres": [
+      "Action",
+      "Indie"
+    ],
+    "isFree": false,
+    "price": "¥ 45.00",
+    "releaseDate": "13 Oct, 2017",
+    "lastModified": 1740436301,
+    "recommendationTotal": 0,
+    "ignUrl": "https://www.ign.com/games/heiankyo-alien"
+  },
+  {
+    "appid": 690820,
+    "name": "The Sunset 2096",
+    "shortDescription": "Mankind invented Them - to simplify your life. Mechanoids to perform all of our mundane activities which finally completely replaced humans in the workspace. Creating the perfect workers turned out to be a mistake.",
+    "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/690820/header.jpg?t=1571396370",
+    "capsuleImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/690820/capsule_231x87.jpg?t=1571396370",
+    "storeUrl": "https://store.steampowered.com/app/690820/",
+    "tags": [
+      "RPG",
+      "Indie",
+      "Action",
+      "Survival",
+      "Open World",
+      "Top-Down"
+    ],
+    "genres": [
+      "Action",
+      "Indie",
+      "RPG"
+    ],
+    "isFree": false,
+    "price": "¥ 11.00",
+    "releaseDate": "4 Jun, 2018",
+    "lastModified": 1571396370,
+    "recommendationTotal": 0,
+    "ignUrl": "https://www.ign.com/games/the-sunset-2096"
+  },
+  {
+    "appid": 690840,
+    "name": "Martha Madison: Simple Machines Volume 1",
+    "shortDescription": "Transform your room into a science lab and go bonkers with Martha Madison: Simple Machines Volume 1. Players, as virtual scientists, work alone or collaboratively with a partner to use screws, inclined planes and wedges to solve physics puzzles and challenges.",
+    "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/690840/header.jpg?t=1523044632",
+    "capsuleImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/690840/capsule_231x87.jpg?t=1523044632",
+    "storeUrl": "https://store.steampowered.com/app/690840/",
+    "tags": [
+      "Indie",
+      "Casual"
+    ],
+    "genres": [
+      "Casual",
+      "Indie"
+    ],
+    "isFree": false,
+    "price": "¥ 11.00",
+    "releaseDate": "8 Feb, 2018",
+    "lastModified": 1523044632,
+    "recommendationTotal": 0,
+    "ignUrl": "https://www.ign.com/games/martha-madison-simple-machines-volume-1"
+  },
+  {
+    "appid": 690850,
+    "name": "Magibot",
+    "shortDescription": "Magibot combines the principles of a platform game and those of a strategy game. Wisely place the action blocks upstream before taking control of your character.",
+    "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/690850/header.jpg?t=1781885038",
+    "capsuleImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/690850/capsule_231x87.jpg?t=1781885038",
+    "storeUrl": "https://store.steampowered.com/app/690850/",
+    "tags": [
+      "Action",
+      "Indie",
+      "Adventure",
+      "Strategy",
+      "Platformer"
+    ],
+    "genres": [
+      "Action",
+      "Adventure",
+      "Indie",
+      "Strategy"
+    ],
+    "isFree": false,
+    "price": "¥ 43.00",
+    "releaseDate": "18 Dec, 2017",
+    "lastModified": 1781885038,
+    "recommendationTotal": 0,
+    "ignUrl": "https://www.ign.com/games/magibot"
+  },
+  {
+    "appid": 690860,
+    "name": "Pirate Jump 2",
+    "shortDescription": "Pirate Jump 2 is a classic runner game and includes 3 gameplay modes for the entire family to enjoy. See you in Davie Jones' Locker!",
+    "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/690860/header.jpg?t=1668820414",
+    "capsuleImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/690860/capsule_231x87.jpg?t=1668820414",
+    "storeUrl": "https://store.steampowered.com/app/690860/",
+    "tags": [
+      "Indie",
+      "Casual",
+      "Action",
+      "Runner"
+    ],
+    "genres": [
+      "Action",
+      "Casual",
+      "Indie"
+    ],
+    "isFree": false,
+    "price": "¥ 6.00",
+    "releaseDate": "23 Aug, 2017",
+    "lastModified": 1668820414,
+    "recommendationTotal": 0,
+    "ignUrl": "https://www.ign.com/games/pirate-jump-2"
+  },
+  {
+    "appid": 690950,
+    "name": "Skeleton Sprint",
+    "shortDescription": "Use interesting puzzle mechanics like the burrow power-up on challenging puzzles that increase in difficulty and complexity as you play through the game.",
+    "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/690950/header.jpg?t=1568657261",
+    "capsuleImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/690950/capsule_231x87.jpg?t=1568657261",
+    "storeUrl": "https://store.steampowered.com/app/690950/",
+    "tags": [
+      "Indie",
+      "Racing",
+      "Adventure",
+      "Strategy",
+      "Psychological Horror",
+      "Nudity"
+    ],
+    "genres": [
+      "Adventure",
+      "Indie",
+      "Racing",
+      "Strategy"
+    ],
+    "isFree": false,
+    "price": "¥ 11.00",
+    "releaseDate": "16 Sep, 2019",
+    "lastModified": 1568657261,
+    "recommendationTotal": 0,
+    "ignUrl": "https://www.ign.com/games/skeleton-sprint"
+  },
+  {
+    "appid": 690980,
+    "name": "TO4: Tactical Operations",
+    "shortDescription": "Tactical Operations is a round based fast-action first-person shooter with classic controls. Built using the Unreal Engine 4 – Welcome to TO4!",
+    "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/690980/header.jpg?t=1775239356",
+    "capsuleImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/690980/capsule_231x87.jpg?t=1775239356",
+    "storeUrl": "https://store.steampowered.com/app/690980/",
+    "tags": [
+      "Free to Play",
+      "Shooter",
+      "Old School",
+      "FPS",
+      "Action",
+      "Indie",
+      "Early Access",
+      "Violent",
+      "Multiplayer",
+      "Gore",
+      "Tactical",
+      "Real Time Tactics",
+      "Arena Shooter",
+      "3D",
+      "Atmospheric",
+      "PvP",
+      "Combat",
+      "Online Co-Op",
+      "First-Person",
+      "Choices Matter"
+    ],
+    "genres": [
+      "Action",
+      "Indie",
+      "Free To Play",
+      "Early Access"
+    ],
+    "isFree": true,
+    "price": "免费",
+    "releaseDate": "11 Jun, 2020",
+    "lastModified": 1775239356,
+    "recommendationTotal": 0,
+    "ignUrl": "https://www.ign.com/games/to4-tactical-operations"
+  },
+  {
+    "appid": 691090,
+    "name": "Fates Call: A New Beginning",
+    "shortDescription": "Fates Call: A New Beginning ! Embark in an epic VR Fantasy RPG You are Talos, a hero that has been awaken by ancient ghosts save the world once again. Evil forces are plotting against peace, you need to stop them before it's too late. Explore the world of Fates Call today !",
+    "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/691090/header.jpg?t=1610999781",
+    "capsuleImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/691090/capsule_231x87.jpg?t=1610999781",
+    "storeUrl": "https://store.steampowered.com/app/691090/",
+    "tags": [
+      "Adventure",
+      "RPG",
+      "Action RPG",
+      "VR",
+      "Fantasy",
+      "PvE",
+      "Singleplayer",
+      "Fighting",
+      "Magic",
+      "Gore",
+      "Violent"
+    ],
+    "genres": [
+      "Adventure",
+      "RPG"
+    ],
+    "isFree": false,
+    "price": "¥ 50.00",
+    "releaseDate": "30 Nov, 2020",
+    "lastModified": 1610999781,
+    "recommendationTotal": 0,
+    "ignUrl": "https://www.ign.com/games/fates-call-a-new-beginning"
+  },
+  {
+    "appid": 691220,
+    "name": "Parkour",
+    "shortDescription": "Parkour is a runner game with tons of challenges. Try to run as far as possible.",
+    "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/691220/header.jpg?t=1504363079",
+    "capsuleImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/691220/capsule_231x87.jpg?t=1504363079",
+    "storeUrl": "https://store.steampowered.com/app/691220/",
+    "tags": [
+      "Action",
+      "Indie",
+      "Casual",
+      "Parkour",
+      "Runner",
+      "Platformer"
+    ],
+    "genres": [
+      "Action",
+      "Casual",
+      "Indie"
+    ],
+    "isFree": false,
+    "price": "¥ 6.00",
+    "releaseDate": "2 Sep, 2017",
+    "lastModified": 1504363079,
+    "recommendationTotal": 0,
+    "ignUrl": "https://www.ign.com/games/parkour"
+  },
+  {
+    "appid": 691430,
+    "name": "Firebird - The Unfinished",
+    "shortDescription": "Behold, the new episode of the award-winning FIREBIRD SERIES for virtual reality ! The Unfinished is a magical musical experience in virtual reality, with music from the Toronto Symphony Orchestra and beautiful ballet performances.",
+    "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/691430/header.jpg?t=1593614478",
+    "capsuleImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/691430/capsule_231x87.jpg?t=1593614478",
+    "storeUrl": "https://store.steampowered.com/app/691430/",
+    "tags": [
+      "Indie",
+      "Casual",
+      "VR"
+    ],
+    "genres": [
+      "Casual",
+      "Indie"
+    ],
+    "isFree": false,
+    "price": "¥ 22.00",
+    "releaseDate": "27 Apr, 2018",
+    "lastModified": 1593614478,
+    "recommendationTotal": 0,
+    "ignUrl": "https://www.ign.com/games/firebird-the-unfinished"
+  },
+  {
+    "appid": 691540,
+    "name": "Space Fighter",
+    "shortDescription": "A mini-game designed for split screen experiences with up to 8 players. Pilot your spaceship through an anti-gravity suspended asteroid field to destroy enemy targets. Summon wingmen to coordinate your team, unlock upgrades to increase your spaceship’s efficiency, all in objective or deathmatch modes.",
+    "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/691540/header.jpg?t=1509040179",
+    "capsuleImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/691540/capsule_231x87.jpg?t=1509040179",
+    "storeUrl": "https://store.steampowered.com/app/691540/",
+    "tags": [
+      "Free to Play",
+      "Action",
+      "Space",
+      "Split Screen",
+      "Multiplayer"
+    ],
+    "genres": [
+      "Action",
+      "Free To Play"
+    ],
+    "isFree": true,
+    "price": "免费",
+    "releaseDate": "14 Sep, 2017",
+    "lastModified": 1509040179,
+    "recommendationTotal": 0,
+    "ignUrl": "https://www.ign.com/games/space-fighter"
+  },
+  {
+    "appid": 691570,
+    "name": "Wingless",
+    "shortDescription": "It’s a snowball crafting, penguin mashing, dynamite throwing fun! Fend off waves of flightless birds in the name of gaining the ultimate skill - flight. Who deserves it more? Humans or wingless animals?",
+    "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/691570/header.jpg?t=1511270964",
+    "capsuleImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/691570/capsule_231x87.jpg?t=1511270964",
+    "storeUrl": "https://store.steampowered.com/app/691570/",
+    "tags": [
+      "Action",
+      "Indie",
+      "Casual",
+      "VR"
+    ],
+    "genres": [
+      "Action",
+      "Casual",
+      "Indie"
+    ],
+    "isFree": false,
+    "price": "¥ 19.00",
+    "releaseDate": "22 Aug, 2017",
+    "lastModified": 1511270964,
+    "recommendationTotal": 0,
+    "ignUrl": "https://www.ign.com/games/wingless"
+  },
+  {
+    "appid": 691580,
+    "name": "Maggie's Movies - Camera, Action!",
+    "shortDescription": "Help me follow my dream and become a movie director! 🎥 🎬",
+    "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/691580/header.jpg?t=1667402608",
+    "capsuleImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/691580/capsule_231x87.jpg?t=1667402608",
+    "storeUrl": "https://store.steampowered.com/app/691580/",
+    "tags": [
+      "Casual",
+      "Simulation",
+      "Adventure",
+      "Indie",
+      "Time Management"
+    ],
+    "genres": [
+      "Adventure",
+      "Casual",
+      "Indie",
+      "Simulation"
+    ],
+    "isFree": false,
+    "price": "¥ 62.00",
+    "releaseDate": "13 Sep, 2017",
+    "lastModified": 1667402608,
+    "recommendationTotal": 0,
+    "ignUrl": "https://www.ign.com/games/maggie-s-movies-camera-action"
+  },
+  {
+    "appid": 691590,
+    "name": "KryptCrawler",
+    "shortDescription": "KryptCrawler brings classic first person, grid based Dungeon Crawler gameplay to your PC and VR. Descend into the unknown and explore the perilous depth of the sinister tombs and crypts you are thrown into, armed with nothing but a map and your wits.",
+    "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/691590/header.jpg?t=1717597011",
+    "capsuleImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/691590/capsule_231x87.jpg?t=1717597011",
+    "storeUrl": "https://store.steampowered.com/app/691590/",
+    "tags": [
+      "Action",
+      "Adventure",
+      "Dungeon Crawler",
+      "RPG",
+      "First-Person",
+      "Grid-Based Movement",
+      "Retro",
+      "Atmospheric",
+      "Indie",
+      "Fantasy",
+      "VR"
+    ],
+    "genres": [
+      "Action",
+      "Adventure"
+    ],
+    "isFree": false,
+    "price": "¥ 33.00",
+    "releaseDate": "5 Jun, 2018",
+    "lastModified": 1717597011,
+    "recommendationTotal": 0,
+    "ignUrl": "https://www.ign.com/games/kryptcrawler"
+  },
+  {
+    "appid": 691620,
+    "name": "Death Rings of Jupiter",
+    "shortDescription": "Death Rings of Jupiter is a 2d retro bullet hell shooter, set in the dense asteroid fields that make up the rings of Jupiter. It features original gameplay that mixes classic gravity games and platformers. Hidden somewhere in the rings of Jupiter, there is treasure, and it's guarded by an infestation of alien monsters.",
+    "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/691620/header.jpg?t=1561475706",
+    "capsuleImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/691620/capsule_231x87.jpg?t=1561475706",
+    "storeUrl": "https://store.steampowered.com/app/691620/",
+    "tags": [
+      "Action",
+      "Indie",
+      "RPG"
+    ],
+    "genres": [
+      "Action",
+      "Indie",
+      "RPG"
+    ],
+    "isFree": false,
+    "price": "¥ 22.00",
+    "releaseDate": "1 Dec, 2017",
+    "lastModified": 1561475706,
+    "recommendationTotal": 0,
+    "ignUrl": "https://www.ign.com/games/death-rings-of-jupiter"
+  },
+  {
+    "appid": 691640,
+    "name": "RoadRunner VR",
+    "shortDescription": "Run, dash and dodge your way through a choatic road!",
+    "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/691640/header.jpg?t=1508142961",
+    "capsuleImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/691640/capsule_231x87.jpg?t=1508142961",
+    "storeUrl": "https://store.steampowered.com/app/691640/",
+    "tags": [
+      "Adventure",
+      "Indie",
+      "Casual",
+      "Racing",
+      "VR"
+    ],
+    "genres": [
+      "Adventure",
+      "Casual",
+      "Indie",
+      "Racing"
+    ],
+    "isFree": false,
+    "price": "¥ 15.00",
+    "releaseDate": "16 Oct, 2017",
+    "lastModified": 1508142961,
+    "recommendationTotal": 0,
+    "ignUrl": "https://www.ign.com/games/roadrunner-vr"
+  },
+  {
+    "appid": 691650,
+    "name": "Kaet Must Die!",
+    "shortDescription": "This is the hardest, most challenging, horror puzzle game you will ever play. 30+ hours of sanity-testing puzzles over the course of 10 horror filled levels. You are Kaetheran, an extremely powerful psionicist with a flair for cyberpunk style. You have awoken in a dank sewer without your mind powers.",
+    "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/691650/header.jpg?t=1668012625",
+    "capsuleImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/691650/capsule_231x87.jpg?t=1668012625",
+    "storeUrl": "https://store.steampowered.com/app/691650/",
+    "tags": [
+      "Indie",
+      "Gore",
+      "Violent",
+      "Action",
+      "Adventure",
+      "Zombies",
+      "Survival",
+      "Horror",
+      "Survival Horror",
+      "Stylized",
+      "Jump Scare",
+      "Puzzle"
+    ],
+    "genres": [
+      "Action",
+      "Adventure",
+      "Indie"
+    ],
+    "isFree": false,
+    "price": "¥ 50.00",
+    "releaseDate": "5 Apr, 2018",
+    "lastModified": 1668012625,
+    "recommendationTotal": 0,
+    "ignUrl": "https://www.ign.com/games/kaet-must-die"
+  },
+  {
+    "appid": 691680,
+    "name": "Ganbatte",
+    "shortDescription": "Ganbatte is a competitive social multiplayer arcade game for VR, about cats, in space, eating sushi. Try to eat as much valuable sushi as you can and reach the highest score.",
+    "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/691680/header.jpg?t=1524150056",
+    "capsuleImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/691680/capsule_231x87.jpg?t=1524150056",
+    "storeUrl": "https://store.steampowered.com/app/691680/",
+    "tags": [
+      "Indie",
+      "Early Access",
+      "Casual",
+      "VR",
+      "Arcade"
+    ],
+    "genres": [
+      "Casual",
+      "Indie",
+      "Early Access"
+    ],
+    "isFree": false,
+    "price": "¥ 28.00",
+    "releaseDate": "19 Apr, 2018",
+    "lastModified": 1524150056,
+    "recommendationTotal": 0,
+    "ignUrl": "https://www.ign.com/games/ganbatte"
+  },
+  {
+    "appid": 691700,
+    "name": "Triton Wing",
+    "shortDescription": "Triton Wing is a top-down, open-world space shooter full of fast action.",
+    "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/691700/header.jpg?t=1736726321",
+    "capsuleImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/691700/capsule_231x87.jpg?t=1736726321",
+    "storeUrl": "https://store.steampowered.com/app/691700/",
+    "tags": [
+      "Action",
+      "Top-Down Shooter"
+    ],
+    "genres": [
+      "Action"
+    ],
+    "isFree": false,
+    "price": "¥ 6.00",
+    "releaseDate": "22 Aug, 2017",
+    "lastModified": 1736726321,
+    "recommendationTotal": 0,
+    "ignUrl": "https://www.ign.com/games/triton-wing"
+  },
+  {
+    "appid": 691720,
+    "name": "RetroGunX VR",
+    "shortDescription": "Miss playing those 8-bit, button-bashing, classic arcade-style cabinet and cartridge games from the 70s and 80s? Ever wanted to experience the intense action from the point of view of the hero within the game? Now you can, in VIRTUAL REALITY.",
+    "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/691720/header.jpg?t=1504639775",
+    "capsuleImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/691720/capsule_231x87.jpg?t=1504639775",
+    "storeUrl": "https://store.steampowered.com/app/691720/",
+    "tags": [
+      "Action",
+      "Indie",
+      "Early Access",
+      "Arcade",
+      "FPS",
+      "VR"
+    ],
+    "genres": [
+      "Action",
+      "Indie"
+    ],
+    "isFree": false,
+    "price": "¥ 40.00",
+    "releaseDate": "5 Sep, 2017",
+    "lastModified": 1504639775,
+    "recommendationTotal": 0,
+    "ignUrl": "https://www.ign.com/games/retrogunx-vr"
+  },
+  {
+    "appid": 691730,
+    "name": "FPV Drone Simulator",
+    "shortDescription": "This FPV Drone Simulator is especially designed for practicing your drone flying skills! Fly in different environments. Choose 'abandoned factory', 'free ride' or 'fantasy forest'.",
+    "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/691730/header.jpg?t=1527942308",
+    "capsuleImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/691730/capsule_231x87.jpg?t=1527942308",
+    "storeUrl": "https://store.steampowered.com/app/691730/",
+    "tags": [
+      "Free to Play",
+      "Simulation",
+      "Racing",
+      "Early Access",
+      "Flight",
+      "Multiplayer"
+    ],
+    "genres": [
+      "Free To Play",
+      "Racing",
+      "Simulation",
+      "Early Access"
+    ],
+    "isFree": true,
+    "price": "免费",
+    "releaseDate": "9 Sep, 2017",
+    "lastModified": 1527942308,
+    "recommendationTotal": 0,
+    "ignUrl": "https://www.ign.com/games/fpv-drone-simulator"
+  },
+  {
+    "appid": 691750,
+    "name": "Andromeda Wing",
+    "shortDescription": "An action-packed retro arcade shoot 'em up featuring organic and bio-mechanical alien life, including ammonites, centipedes and spiders!",
+    "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/691750/header.jpg?t=1524168266",
+    "capsuleImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/691750/capsule_231x87.jpg?t=1524168266",
+    "storeUrl": "https://store.steampowered.com/app/691750/",
+    "tags": [
+      "Action",
+      "Indie",
+      "Shoot 'Em Up",
+      "Retro",
+      "Arcade",
+      "Shooter",
+      "Aliens",
+      "Space"
+    ],
+    "genres": [
+      "Action",
+      "Indie"
+    ],
+    "isFree": false,
+    "price": "¥ 18.00",
+    "releaseDate": "25 Aug, 2017",
+    "lastModified": 1524168266,
+    "recommendationTotal": 0,
+    "ignUrl": "https://www.ign.com/games/andromeda-wing"
+  },
+  {
+    "appid": 691850,
+    "name": "The Mines of Morseph",
+    "shortDescription": "You are Darsius, a peaceful man who was sold into slavery to the Mines of Morseph. This changed when an evil invaded the mines and killed everyone... except you. You must journey through the mines of evil to find the mine key which will lead out of the mines of death...and to your freedom.",
+    "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/691850/header.jpg?t=1609935975",
+    "capsuleImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/691850/capsule_231x87.jpg?t=1609935975",
+    "storeUrl": "https://store.steampowered.com/app/691850/",
+    "tags": [
+      "Indie",
+      "Adventure",
+      "RPG",
+      "Action"
+    ],
+    "genres": [
+      "Action",
+      "Adventure",
+      "Indie",
+      "RPG"
+    ],
+    "isFree": false,
+    "price": "¥ 6.00",
+    "releaseDate": "3 Oct, 2017",
+    "lastModified": 1609935975,
+    "recommendationTotal": 0,
+    "ignUrl": "https://www.ign.com/games/the-mines-of-morseph"
+  },
+  {
+    "appid": 691860,
+    "name": "Watch Out",
+    "shortDescription": "Watch out is intended to be an &quot;I got to kill 5-10 minutes somehow&quot;-game. It is an arcade racing game where your only objective is to get as high a score as possible on a random generated map.",
+    "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/691860/header.jpg?t=1519593850",
+    "capsuleImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/691860/capsule_231x87.jpg?t=1519593850",
+    "storeUrl": "https://store.steampowered.com/app/691860/",
+    "tags": [
+      "Indie",
+      "Racing"
+    ],
+    "genres": [
+      "Indie",
+      "Racing"
+    ],
+    "isFree": false,
+    "price": "¥ 11.00",
+    "releaseDate": "1 Sep, 2017",
+    "lastModified": 1519593850,
+    "recommendationTotal": 0,
+    "ignUrl": "https://www.ign.com/games/watch-out"
+  },
+  {
+    "appid": 691890,
+    "name": "Machine Crisis (陨星危机)",
+    "shortDescription": "Machine Crisis is a sci-fi VR shooter, player fight gigantic bio-mechs with guts and wits",
+    "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/691890/header.jpg?t=1512706128",
+    "capsuleImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/691890/capsule_231x87.jpg?t=1512706128",
+    "storeUrl": "https://store.steampowered.com/app/691890/",
+    "tags": [
+      "Action",
+      "Shooter",
+      "VR"
+    ],
+    "genres": [
+      "Action"
+    ],
+    "isFree": false,
+    "price": "¥ 6.00",
+    "releaseDate": "7 Dec, 2017",
+    "lastModified": 1512706128,
+    "recommendationTotal": 0,
+    "ignUrl": "https://www.ign.com/games/machine-crisis"
+  },
+  {
+    "appid": 691930,
+    "name": "MSI Electric City: Core Assault",
+    "shortDescription": "Rediscover MSI Electric City as you pilot a fighter ship with the mission to defend the city. Maneuver and blast away the enemy swarm in this VR bullet hell arcade shoot ’em up.",
+    "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/691930/header.jpg?t=1514200923",
+    "capsuleImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/691930/capsule_231x87.jpg?t=1514200923",
+    "storeUrl": "https://store.steampowered.com/app/691930/",
+    "tags": [
+      "Free to Play",
+      "Action",
+      "Adventure",
+      "VR",
+      "Indie",
+      "Casual",
+      "Sci-fi",
+      "Shoot 'Em Up",
+      "Bullet Hell",
+      "Third-Person Shooter",
+      "Great Soundtrack",
+      "Arcade"
+    ],
+    "genres": [
+      "Action",
+      "Adventure",
+      "Casual",
+      "Free To Play",
+      "Indie"
+    ],
+    "isFree": true,
+    "price": "免费",
+    "releaseDate": "8 Sep, 2017",
+    "lastModified": 1514200923,
+    "recommendationTotal": 0,
+    "ignUrl": "https://www.ign.com/games/msi-electric-city-core-assault"
+  },
+  {
+    "appid": 691980,
+    "name": "Fortune's Tavern - Remastered",
+    "shortDescription": "Every great RPG has its tavern: where heroes meet, rumours are told, quests are undertaken, and beer is supped by the gallon… but could you manage such a place? Jump into the role of a fantasy-world tavern keeper and renovate the infamous Fortune’s Tavern, amongst the backdrop of a world on the brink of war.",
+    "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/691980/header.jpg?t=1551196610",
+    "capsuleImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/691980/capsule_231x87.jpg?t=1551196610",
+    "storeUrl": "https://store.steampowered.com/app/691980/",
+    "tags": [
+      "Simulation",
+      "RPG",
+      "Indie"
+    ],
+    "genres": [
+      "Indie",
+      "RPG",
+      "Simulation"
+    ],
+    "isFree": false,
+    "price": "¥ 25.00",
+    "releaseDate": "18 Aug, 2017",
+    "lastModified": 1551196610,
+    "recommendationTotal": 0,
+    "ignUrl": "https://www.ign.com/games/fortune-s-tavern-remastered"
+  },
+  {
+    "appid": 691990,
+    "name": "Cat's Lover",
+    "shortDescription": "The adventure of an unknown man in an unknown field for your fun.",
+    "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/691990/header.jpg?t=1509630579",
+    "capsuleImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/691990/capsule_231x87.jpg?t=1509630579",
+    "storeUrl": "https://store.steampowered.com/app/691990/",
+    "tags": [
+      "Indie",
+      "Casual",
+      "Simulation"
+    ],
+    "genres": [
+      "Casual",
+      "Indie",
+      "Simulation"
+    ],
+    "isFree": false,
+    "price": "¥ 6.00",
+    "releaseDate": "30 Aug, 2017",
+    "lastModified": 1509630579,
+    "recommendationTotal": 0,
+    "ignUrl": "https://www.ign.com/games/cat-s-lover"
+  },
+  {
+    "appid": 692090,
+    "name": "Robin of Loxley the Legend of Sherwood",
+    "shortDescription": "it looks like old school arcade game, with modern graphics. There is a lot of emphasis on sneaking mechanism, and a lot of things around it, making noise, distraction, and others. This is definitely a plus, because it’s adding a “think quickly” element, to arcade mechanism of collecting loot.",
+    "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/692090/header.jpg?t=1699275914",
+    "capsuleImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/692090/capsule_231x87.jpg?t=1699275914",
+    "storeUrl": "https://store.steampowered.com/app/692090/",
+    "tags": [
+      "Indie",
+      "Stealth",
+      "Arcade"
+    ],
+    "genres": [
+      "Indie"
+    ],
+    "isFree": false,
+    "price": "¥ 28.00",
+    "releaseDate": "28 Oct, 2017",
+    "lastModified": 1699275914,
+    "recommendationTotal": 0,
+    "ignUrl": "https://www.ign.com/games/robin-of-loxley-the-legend-of-sherwood"
+  },
+  {
+    "appid": 692110,
+    "name": "ArchRobo - Robotic Annihilation",
+    "shortDescription": "This is ArchRobo, a top-down shooter. Featuring incredible visuals, 28 intense levels ranging from easy to incredibly challenging, with 5 large Bosses, dozens of enemies, and a plethora of creative weapons such as the Laser Sword, and Juggernaut power-up.",
+    "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/692110/header.jpg?t=1571063972",
+    "capsuleImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/692110/capsule_231x87.jpg?t=1571063972",
+    "storeUrl": "https://store.steampowered.com/app/692110/",
+    "tags": [
+      "Action",
+      "Indie",
+      "Twin Stick Shooter",
+      "Robots",
+      "2D",
+      "Shooter",
+      "Retro",
+      "Top-Down Shooter",
+      "Co-op",
+      "Sci-fi",
+      "Arcade",
+      "Local Co-Op",
+      "Local Multiplayer",
+      "Controller",
+      "Dungeon Crawler",
+      "Shoot 'Em Up"
+    ],
+    "genres": [
+      "Action",
+      "Indie"
+    ],
+    "isFree": true,
+    "price": "免费",
+    "releaseDate": "1 Sep, 2017",
+    "lastModified": 1571063972,
+    "recommendationTotal": 0,
+    "ignUrl": "https://www.ign.com/games/archrobo-robotic-annihilation"
+  },
+  {
+    "appid": 692170,
+    "name": "Virtual Robots - Robot programming simulator",
+    "shortDescription": "Virtual Robots is a robot programming simulator. The objective of this game is to write code for your robots. Yes, WRITE.",
+    "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/692170/header.jpg?t=1728496215",
+    "capsuleImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/692170/capsule_231x87.jpg?t=1728496215",
+    "storeUrl": "https://store.steampowered.com/app/692170/",
+    "tags": [
+      "Strategy",
+      "Indie",
+      "Simulation",
+      "Programming"
+    ],
+    "genres": [
+      "Indie",
+      "Simulation",
+      "Strategy"
+    ],
+    "isFree": false,
+    "price": "¥ 42.00",
+    "releaseDate": "1 Nov, 2017",
+    "lastModified": 1728496215,
+    "recommendationTotal": 0,
+    "ignUrl": "https://www.ign.com/games/virtual-robots-robot-programming-simulator"
+  },
+  {
+    "appid": 692190,
+    "name": "Pixel Puzzle Picross",
+    "shortDescription": "Pixel Puzzle is a challenging and fun picross logic game with 182 original puzzles and two modes of play.",
+    "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/692190/header.jpg?t=1504669894",
+    "capsuleImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/692190/capsule_231x87.jpg?t=1504669894",
+    "storeUrl": "https://store.steampowered.com/app/692190/",
+    "tags": [
+      "Indie",
+      "Casual",
+      "Puzzle"
+    ],
+    "genres": [
+      "Casual",
+      "Indie"
+    ],
+    "isFree": false,
+    "price": "¥ 28.00",
+    "releaseDate": "28 Aug, 2017",
+    "lastModified": 1504669894,
+    "recommendationTotal": 0,
+    "ignUrl": "https://www.ign.com/games/pixel-puzzle-picross"
+  },
+  {
+    "appid": 692360,
+    "name": "Tales of Wedding Rings VR",
+    "shortDescription": "Tales of Wedding Rings VR is a unique and brand new manga experience for VR, brought to you by Square Enix.",
+    "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/692360/header.jpg?t=1552039030",
+    "capsuleImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/692360/capsule_231x87.jpg?t=1552039030",
+    "storeUrl": "https://store.steampowered.com/app/692360/",
+    "tags": [
+      "Casual",
+      "Anime",
+      "VR"
+    ],
+    "genres": [
+      "Casual"
+    ],
+    "isFree": false,
+    "price": "¥ 67.50",
+    "releaseDate": "24 Sep, 2018",
+    "lastModified": 1552039030,
+    "recommendationTotal": 0,
+    "ignUrl": "https://www.ign.com/games/tales-of-wedding-rings-vr"
+  },
+  {
+    "appid": 692530,
+    "name": "Community Garden",
+    "shortDescription": "A VR city powered Improbable's SpatialOS.",
+    "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/692530/header.jpg?t=1542698614",
+    "capsuleImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/692530/capsule_231x87.jpg?t=1542698614",
+    "storeUrl": "https://store.steampowered.com/app/692530/",
+    "tags": [
+      "Early Access",
+      "Massively Multiplayer",
+      "Indie",
+      "Simulation",
+      "VR"
+    ],
+    "genres": [
+      "Indie",
+      "Massively Multiplayer",
+      "Simulation",
+      "Early Access"
+    ],
+    "isFree": false,
+    "price": "¥ 37.00",
+    "releaseDate": "10 Oct, 2017",
+    "lastModified": 1542698614,
+    "recommendationTotal": 0,
+    "ignUrl": "https://www.ign.com/games/community-garden"
+  },
+  {
+    "appid": 692590,
+    "name": "DEFECTIVE",
+    "shortDescription": "You must save the world, whatever the cost...",
+    "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/692590/header.jpg?t=1729667178",
+    "capsuleImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/692590/capsule_231x87.jpg?t=1729667178",
+    "storeUrl": "https://store.steampowered.com/app/692590/",
+    "tags": [
+      "Action",
+      "Indie",
+      "Adventure",
+      "Shooter",
+      "Atmospheric"
+    ],
+    "genres": [
+      "Action",
+      "Adventure",
+      "Indie"
+    ],
+    "isFree": false,
+    "price": "¥ 15.00",
+    "releaseDate": "5 Sep, 2017",
+    "lastModified": 1729667178,
+    "recommendationTotal": 0,
+    "ignUrl": "https://www.ign.com/games/defective"
+  },
+  {
+    "appid": 692610,
+    "name": "Two Escapes",
+    "shortDescription": "1 Player, 2 Hands, 2 Analog Sticks, 2 Characters! Two Escapes is a single player game that controls two characters at the same time to find exits and place both of them. You need to move both hands independently to achieve your goal.",
+    "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/692610/header.jpg?t=1524593108",
+    "capsuleImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/692610/capsule_231x87.jpg?t=1524593108",
+    "storeUrl": "https://store.steampowered.com/app/692610/",
+    "tags": [
+      "Action",
+      "Indie",
+      "Casual",
+      "Puzzle Platformer"
+    ],
+    "genres": [
+      "Action",
+      "Casual",
+      "Indie"
+    ],
+    "isFree": false,
+    "price": "¥ 11.00",
+    "releaseDate": "30 Aug, 2017",
+    "lastModified": 1524593108,
+    "recommendationTotal": 0,
+    "ignUrl": "https://www.ign.com/games/two-escapes"
+  },
+  {
+    "appid": 692630,
+    "name": "Beetlejuice: Bad as Can",
+    "shortDescription": "Play as Beetlejuice, the greatest Wack Packer of all time, in this hilariously wacky adventure.",
+    "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/692630/header.jpg?t=1506364031",
+    "capsuleImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/692630/capsule_231x87.jpg?t=1506364031",
+    "storeUrl": "https://store.steampowered.com/app/692630/",
+    "tags": [
+      "Action",
+      "Adventure",
+      "Indie",
+      "Casual"
+    ],
+    "genres": [
+      "Action",
+      "Adventure",
+      "Casual",
+      "Indie"
+    ],
+    "isFree": false,
+    "price": "¥ 37.00",
+    "releaseDate": "25 Sep, 2017",
+    "lastModified": 1506364031,
+    "recommendationTotal": 0,
+    "ignUrl": "https://www.ign.com/games/beetlejuice-bad-as-can"
+  },
+  {
+    "appid": 692660,
+    "name": "Invictus: In the Shadow of Olympus",
+    "shortDescription": "Caught in a bitter feud between spiteful gods, you fight for more than your life in this strategy RPG. Enlist Hercules, Achilles, Electra and the mightiest of heroes in your struggle for an eternal seat atop Olympus. Create your own war host from over 30 distinct units.",
+    "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/692660/header.jpg?t=1762135705",
+    "capsuleImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/692660/capsule_231x87.jpg?t=1762135705",
+    "storeUrl": "https://store.steampowered.com/app/692660/",
+    "tags": [
+      "Adventure",
+      "Strategy",
+      "RPG",
+      "Isometric",
+      "Mythology",
+      "Action",
+      "Real-Time",
+      "RTS",
+      "Hack and Slash",
+      "CRPG",
+      "2.5D",
+      "2D",
+      "Alternate History",
+      "Atmospheric",
+      "Magic",
+      "War",
+      "Character Customization",
+      "Combat",
+      "Singleplayer",
+      "Party-Based RPG"
+    ],
+    "genres": [
+      "Adventure",
+      "RPG",
+      "Strategy"
+    ],
+    "isFree": false,
+    "price": "¥ 37.00",
+    "releaseDate": "18 Dec, 2017",
+    "lastModified": 1762135705,
+    "recommendationTotal": 0,
+    "ignUrl": "https://www.ign.com/games/invictus-in-the-shadow-of-olympus"
+  },
+  {
+    "appid": 692680,
+    "name": "Don't Explode",
+    "shortDescription": "2 Player only arcade game with one rule, don't explode.",
+    "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/692680/header.jpg?t=1687240328",
+    "capsuleImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/692680/capsule_231x87.jpg?t=1687240328",
+    "storeUrl": "https://store.steampowered.com/app/692680/",
+    "tags": [
+      "Action",
+      "Indie",
+      "Casual",
+      "Arcade",
+      "Sci-fi"
+    ],
+    "genres": [
+      "Action",
+      "Casual",
+      "Indie"
+    ],
+    "isFree": false,
+    "price": "¥ 6.00",
+    "releaseDate": "15 Oct, 2017",
+    "lastModified": 1687240328,
+    "recommendationTotal": 0,
+    "ignUrl": "https://www.ign.com/games/don-t-explode"
+  },
+  {
+    "appid": 692710,
+    "name": "Astron Jump Baby",
+    "shortDescription": "&quot;Astron Jump Baby&quot; is a simple platform、jump game, it's infinite, no endless, and you can't pause. Challenge your patience and reaction.",
+    "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/692710/header.jpg?t=1567066616",
+    "capsuleImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/692710/capsule_231x87.jpg?t=1567066616",
+    "storeUrl": "https://store.steampowered.com/app/692710/",
+    "tags": [
+      "Action",
+      "Indie",
+      "Casual",
+      "Platformer",
+      "Parkour"
+    ],
+    "genres": [
+      "Action",
+      "Casual",
+      "Indie"
+    ],
+    "isFree": false,
+    "price": "¥ 5.99",
+    "releaseDate": "29 Aug, 2017",
+    "lastModified": 1567066616,
+    "recommendationTotal": 0,
+    "ignUrl": "https://www.ign.com/games/astron-jump-baby"
+  },
+  {
+    "appid": 692780,
+    "name": "Olorun: Theocracy",
+    "shortDescription": "Olorun: Theocracy is a medieval-style fantasy RPG, it supports from single player to 4 players cooperation. Olorun: Theocracy features abundant forging, combat systems and adventures. It's up to players to decide who they are, whether it's the humble people of the gods, or the filthy Exodius!",
+    "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/692780/header.jpg?t=1534780846",
+    "capsuleImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/692780/capsule_231x87.jpg?t=1534780846",
+    "storeUrl": "https://store.steampowered.com/app/692780/",
+    "tags": [
+      "Action",
+      "RPG",
+      "Indie",
+      "Adventure",
+      "Casual",
+      "Gore",
+      "Violent",
+      "Early Access"
+    ],
+    "genres": [
+      "Violent",
+      "Gore",
+      "Action",
+      "Adventure",
+      "Casual",
+      "Indie",
+      "RPG",
+      "Early Access"
+    ],
+    "isFree": false,
+    "price": "¥ 70.00",
+    "releaseDate": "20 Aug, 2018",
+    "lastModified": 1534780846,
+    "recommendationTotal": 0,
+    "ignUrl": "https://www.ign.com/games/olorun-theocracy"
+  },
+  {
+    "appid": 692830,
+    "name": "Fear Of Nightmares: Madness Descent",
+    "shortDescription": "After having witnessed his own hanging, the character finds himself in a forest where strange events begin to happen. While traveling through dark enviroments in order to restore his sanity he will encounter various obstacles aswell as malformed horrors lurking in the dark.",
+    "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/692830/header.jpg?t=1505230540",
+    "capsuleImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/692830/capsule_231x87.jpg?t=1505230540",
+    "storeUrl": "https://store.steampowered.com/app/692830/",
+    "tags": [
+      "Strategy",
+      "Action",
+      "Adventure",
+      "Indie",
+      "Horror"
+    ],
+    "genres": [
+      "Action",
+      "Adventure",
+      "Indie",
+      "Strategy"
+    ],
+    "isFree": false,
+    "price": "¥ 6.00",
+    "releaseDate": "11 Sep, 2017",
+    "lastModified": 1505230540,
+    "recommendationTotal": 0,
+    "ignUrl": "https://www.ign.com/games/fear-of-nightmares-madness-descent"
+  },
+  {
+    "appid": 692950,
+    "name": "The Dew",
+    "shortDescription": "The Dew is a puzzle game focused on storytelling. You will become a dewdrop—experience the past wars fought by black and white in puzzle form, and uncover the neglected truth.",
+    "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/692950/header.jpg?t=1727469514",
+    "capsuleImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/692950/capsule_231x87.jpg?t=1727469514",
+    "storeUrl": "https://store.steampowered.com/app/692950/",
+    "tags": [
+      "Casual",
+      "Indie",
+      "Puzzle",
+      "Minimalist",
+      "Atmospheric",
+      "Abstract",
+      "Singleplayer",
+      "Story Rich",
+      "Lore-Rich",
+      "2D",
+      "Difficult",
+      "Grid-Based Movement",
+      "Philosophical"
+    ],
+    "genres": [
+      "Casual",
+      "Indie"
+    ],
+    "isFree": false,
+    "price": "¥ 11.00",
+    "releaseDate": "1 Sep, 2017",
+    "lastModified": 1727469514,
+    "recommendationTotal": 0,
+    "ignUrl": "https://www.ign.com/games/the-dew"
+  },
+  {
+    "appid": 693020,
+    "name": "Space Commander 9",
+    "shortDescription": "Space Commander 9 is a modern 3D space shooter game that puts you in the seat of an space ship with orders to defend the human race against the alien invasion.",
+    "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/693020/header.jpg?t=1518469351",
+    "capsuleImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/693020/capsule_231x87.jpg?t=1518469351",
+    "storeUrl": "https://store.steampowered.com/app/693020/",
+    "tags": [
+      "Action",
+      "Indie",
+      "Casual"
+    ],
+    "genres": [
+      "Action",
+      "Casual",
+      "Indie"
+    ],
+    "isFree": false,
+    "price": "¥ 28.00",
+    "releaseDate": "12 Feb, 2018",
+    "lastModified": 1518469351,
+    "recommendationTotal": 0,
+    "ignUrl": "https://www.ign.com/games/space-commander-9"
+  },
+  {
+    "appid": 693030,
+    "name": "Neo Angle",
+    "shortDescription": "Retro inspired Minimal puzzle game.",
+    "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/693030/header.jpg?t=1509907238",
+    "capsuleImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/693030/capsule_231x87.jpg?t=1509907238",
+    "storeUrl": "https://store.steampowered.com/app/693030/",
+    "tags": [
+      "Casual",
+      "Indie",
+      "Puzzle",
+      "Minimalist",
+      "Relaxing",
+      "Strategy",
+      "3D",
+      "Isometric",
+      "Retro",
+      "Linear",
+      "Singleplayer",
+      "Abstract",
+      "Logic",
+      "Mouse Only",
+      "Short",
+      "Adventure"
+    ],
+    "genres": [
+      "Adventure",
+      "Casual",
+      "Indie"
+    ],
+    "isFree": false,
+    "price": "¥ 11.00",
+    "releaseDate": "20 Oct, 2017",
+    "lastModified": 1509907238,
+    "recommendationTotal": 0,
+    "ignUrl": "https://www.ign.com/games/neo-angle"
+  },
+  {
+    "appid": 693070,
+    "name": "Martha Madison: Simple Machines Volume 2",
+    "shortDescription": "Transform your room into a science lab and go bonkers with Martha Madison: Simple Machines Volume 2. Players, as virtual scientists, work alone or collaboratively with a partner to use pulleys, levers and wheel &amp; axles to solve physics puzzles and challenges.",
+    "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/693070/header.jpg?t=1523044513",
+    "capsuleImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/693070/capsule_231x87.jpg?t=1523044513",
+    "storeUrl": "https://store.steampowered.com/app/693070/",
+    "tags": [
+      "Indie",
+      "Casual"
+    ],
+    "genres": [
+      "Casual",
+      "Indie"
+    ],
+    "isFree": false,
+    "price": "¥ 11.00",
+    "releaseDate": "8 Feb, 2018",
+    "lastModified": 1523044513,
+    "recommendationTotal": 0,
+    "ignUrl": "https://www.ign.com/games/martha-madison-simple-machines-volume-2"
+  },
+  {
+    "appid": 693080,
+    "name": "Martha Madison: Magnetism",
+    "shortDescription": "In Martha Madison: Magnetism, Martha needs your help to bring power to a nearby village of animals! There are rumors of an ancient power-generating machine hidden in a temple in the jungle, which works using properties of magnetism.",
+    "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/693080/header.jpg?t=1523046253",
+    "capsuleImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/693080/capsule_231x87.jpg?t=1523046253",
+    "storeUrl": "https://store.steampowered.com/app/693080/",
+    "tags": [
+      "Indie",
+      "Casual"
+    ],
+    "genres": [
+      "Casual",
+      "Indie"
+    ],
+    "isFree": false,
+    "price": "¥ 11.00",
+    "releaseDate": "8 Feb, 2018",
+    "lastModified": 1523046253,
+    "recommendationTotal": 0,
+    "ignUrl": "https://www.ign.com/games/martha-madison-magnetism"
+  },
+  {
+    "appid": 693090,
+    "name": "Star Waker",
+    "shortDescription": "Star Waker allows you to command customizable spaceships with the mission to show your agility in order to save mankind.",
+    "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/693090/header.jpg?t=1510677128",
+    "capsuleImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/693090/capsule_231x87.jpg?t=1510677128",
+    "storeUrl": "https://store.steampowered.com/app/693090/",
+    "tags": [
+      "Indie",
+      "Shoot 'Em Up",
+      "Singleplayer",
+      "Action",
+      "Space",
+      "Female Protagonist",
+      "Controller",
+      "RPG",
+      "Pixel Graphics",
+      "Difficult",
+      "Lore-Rich",
+      "2D",
+      "Arcade",
+      "Shooter",
+      "Story Rich",
+      "Action-Adventure",
+      "Sci-fi",
+      "Visual Novel",
+      "Adventure",
+      "Bullet Hell"
+    ],
+    "genres": [
+      "Action",
+      "Indie"
+    ],
+    "isFree": false,
+    "price": "¥ 22.00",
+    "releaseDate": "25 Aug, 2017",
+    "lastModified": 1510677128,
+    "recommendationTotal": 0,
+    "ignUrl": "https://www.ign.com/games/star-waker"
+  },
+  {
+    "appid": 693150,
+    "name": "Martha Madison: Electricity",
+    "shortDescription": "Feel the power! In Martha Madison: Electricity, players embark on a quest to repair the local power station from damage sustained during a recent storm. Complete circuits while learning about conductors, semiconductors and insulators.",
+    "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/693150/header.jpg?t=1523044008",
+    "capsuleImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/693150/capsule_231x87.jpg?t=1523044008",
+    "storeUrl": "https://store.steampowered.com/app/693150/",
+    "tags": [
+      "Indie",
+      "Casual"
+    ],
+    "genres": [
+      "Casual",
+      "Indie"
+    ],
+    "isFree": false,
+    "price": "¥ 11.00",
+    "releaseDate": "8 Feb, 2018",
+    "lastModified": 1523044008,
+    "recommendationTotal": 0,
+    "ignUrl": "https://www.ign.com/games/martha-madison-electricity"
+  },
+  {
+    "appid": 693180,
+    "name": "Slice of Life",
+    "shortDescription": "What to do when you are alone?",
+    "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/693180/header.jpg?t=1531515507",
+    "capsuleImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/693180/capsule_231x87.jpg?t=1531515507",
+    "storeUrl": "https://store.steampowered.com/app/693180/",
+    "tags": [
+      "Adventure",
+      "Indie"
+    ],
+    "genres": [
+      "Adventure",
+      "Indie"
+    ],
+    "isFree": false,
+    "price": "¥ 22.00",
+    "releaseDate": "30 Nov, 2017",
+    "lastModified": 1531515507,
+    "recommendationTotal": 0,
+    "ignUrl": "https://www.ign.com/games/slice-of-life"
+  },
+  {
+    "appid": 693190,
+    "name": "Survival driver 2: Heavy vehicles",
+    "shortDescription": "Indie racing project where player drives with heavy vehicles only target to pass tracks under limited time",
+    "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/693190/header.jpg?t=1782218383",
+    "capsuleImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/693190/capsule_231x87.jpg?t=1782218383",
+    "storeUrl": "https://store.steampowered.com/app/693190/",
+    "tags": [
+      "Racing",
+      "Indie",
+      "Casual"
+    ],
+    "genres": [
+      "Casual",
+      "Indie",
+      "Racing"
+    ],
+    "isFree": false,
+    "price": "¥ 22.00",
+    "releaseDate": "23 Aug, 2017",
+    "lastModified": 1782218383,
+    "recommendationTotal": 0,
+    "ignUrl": "https://www.ign.com/games/survival-driver-2-heavy-vehicles"
+  },
+  {
+    "appid": 693210,
+    "name": "Grimtale Island",
+    "shortDescription": "Grimtale Island is a open world survival game set in a beautiful low poly art style. Explore and master survival on a island that has been taken over by a strange infection causing the dead to return to the world of the living. Craft gather and build to stay alive in this world.",
+    "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/693210/header.jpg?t=1725966745",
+    "capsuleImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/693210/capsule_231x87.jpg?t=1725966745",
+    "storeUrl": "https://store.steampowered.com/app/693210/",
+    "tags": [
+      "Adventure",
+      "Free to Play",
+      "Zombies",
+      "Survival",
+      "Mystery",
+      "PvE"
+    ],
+    "genres": [
+      "Adventure",
+      "Free To Play"
+    ],
+    "isFree": true,
+    "price": "免费",
+    "releaseDate": "26 Nov, 2020",
+    "lastModified": 1725966745,
+    "recommendationTotal": 0,
+    "ignUrl": "https://www.ign.com/games/grimtale-island"
+  },
+  {
+    "appid": 693240,
+    "name": "Mahjong Challenge",
+    "shortDescription": "Mahjong Challenge is the perfect game for the casual player looking for fun and extensive gameplay. The goal of this game is to match open pairs of identical tiles and remove them from the board. The game is finished when all pairs of tiles have been removed from the board.",
+    "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/693240/header.jpg?t=1740422559",
+    "capsuleImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/693240/capsule_231x87.jpg?t=1740422559",
+    "storeUrl": "https://store.steampowered.com/app/693240/",
+    "tags": [
+      "Hidden Object",
+      "Puzzle",
+      "Mouse Only",
+      "Point &amp; Click",
+      "Strategy",
+      "Card Game",
+      "Casual",
+      "Adventure",
+      "Singleplayer",
+      "2D",
+      "Sports",
+      "Indie",
+      "Simulation",
+      "Gaming",
+      "Incremental",
+      "Tabletop",
+      "Idler",
+      "Match 3",
+      "Minimalist",
+      "Cartoon"
+    ],
+    "genres": [
+      "Adventure",
+      "Casual",
+      "Indie",
+      "Simulation",
+      "Sports",
+      "Strategy"
+    ],
+    "isFree": false,
+    "price": "¥ 15.00",
+    "releaseDate": "22 Aug, 2017",
+    "lastModified": 1740422559,
+    "recommendationTotal": 0,
+    "ignUrl": "https://www.ign.com/games/mahjong-challenge"
+  },
+  {
+    "appid": 693300,
+    "name": "Unbalance",
+    "shortDescription": "Unbalance is a minimalist physics puzzle about geometry and balance.",
+    "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/693300/header.jpg?t=1506355786",
+    "capsuleImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/693300/capsule_231x87.jpg?t=1506355786",
+    "storeUrl": "https://store.steampowered.com/app/693300/",
+    "tags": [
+      "Indie",
+      "Casual",
+      "Puzzle",
+      "Minimalist"
+    ],
+    "genres": [
+      "Casual",
+      "Indie"
+    ],
+    "isFree": false,
+    "price": "¥ 6.00",
+    "releaseDate": "20 Sep, 2017",
+    "lastModified": 1506355786,
+    "recommendationTotal": 0,
+    "ignUrl": "https://www.ign.com/games/unbalance"
+  },
+  {
+    "appid": 693310,
+    "name": "Bomsy",
+    "shortDescription": "Bomsy is a fast, aim-based, multiplayer arena brawler with destructible maps. The aim of the game is to take out your opponents by lobbing bombs at them and wreaking havoc on the map!",
+    "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/693310/header.jpg?t=1512178352",
+    "capsuleImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/693310/capsule_231x87.jpg?t=1512178352",
+    "storeUrl": "https://store.steampowered.com/app/693310/",
+    "tags": [
+      "Action",
+      "Indie",
+      "Casual"
+    ],
+    "genres": [
+      "Action",
+      "Casual",
+      "Indie"
+    ],
+    "isFree": false,
+    "price": "¥ 18.00",
+    "releaseDate": "2 Nov, 2017",
+    "lastModified": 1512178352,
+    "recommendationTotal": 0,
+    "ignUrl": "https://www.ign.com/games/bomsy"
+  },
+  {
+    "appid": 693320,
+    "name": "Chinomikon",
+    "shortDescription": "You are a young teacher, who arrived in China, with the aim to earn some money and have a jorney. During it you are going to learn some basic Chinese words. Learn and play at the same time!",
+    "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/693320/header.jpg?t=1513130158",
+    "capsuleImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/693320/capsule_231x87.jpg?t=1513130158",
+    "storeUrl": "https://store.steampowered.com/app/693320/",
+    "tags": [
+      "Adventure",
+      "Indie",
+      "RPG"
+    ],
+    "genres": [
+      "Adventure",
+      "Indie",
+      "RPG"
+    ],
+    "isFree": false,
+    "price": "¥ 6.00",
+    "releaseDate": "1 Sep, 2017",
+    "lastModified": 1513130158,
+    "recommendationTotal": 0,
+    "ignUrl": "https://www.ign.com/games/chinomikon"
+  },
+  {
+    "appid": 693330,
+    "name": "Fake World VR",
+    "shortDescription": "Fake World® is an action-packed VR game in zero gravity. Fight through hordes of enemies, discover Fake World's unique movement systems, and uncover the truth about reality in this adrenaline pumping adventure.",
+    "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/693330/header.jpg?t=1701826957",
+    "capsuleImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/693330/capsule_231x87.jpg?t=1701826957",
+    "storeUrl": "https://store.steampowered.com/app/693330/",
+    "tags": [
+      "Action",
+      "Adventure",
+      "Indie",
+      "VR",
+      "Action-Adventure",
+      "FPS"
+    ],
+    "genres": [
+      "Action",
+      "Adventure",
+      "Indie"
+    ],
+    "isFree": true,
+    "price": "免费",
+    "releaseDate": "25 Aug, 2017",
+    "lastModified": 1701826957,
+    "recommendationTotal": 0,
+    "ignUrl": "https://www.ign.com/games/fake-world-vr"
+  },
+  {
+    "appid": 693400,
+    "name": "Taking Valhalla VR",
+    "shortDescription": "Fight, Build, Gather, Survive, Explore",
+    "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/693400/header.jpg?t=1574174469",
+    "capsuleImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/693400/capsule_231x87.jpg?t=1574174469",
+    "storeUrl": "https://store.steampowered.com/app/693400/",
+    "tags": [
+      "Strategy",
+      "Action",
+      "Adventure",
+      "RPG",
+      "Indie",
+      "Casual",
+      "VR"
+    ],
+    "genres": [
+      "Action",
+      "Adventure",
+      "Casual",
+      "Indie",
+      "RPG",
+      "Strategy"
+    ],
+    "isFree": false,
+    "price": "¥ 11.00",
+    "releaseDate": "31 Oct, 2017",
+    "lastModified": 1574174469,
+    "recommendationTotal": 0,
+    "ignUrl": "https://www.ign.com/games/taking-valhalla-vr"
+  },
+  {
+    "appid": 693430,
+    "name": "The Simple Apocalypse",
+    "shortDescription": "The Simple Apocalypse is a small, simple and fun multiplayer/coop game.",
+    "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/693430/header.jpg?t=1530358494",
+    "capsuleImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/693430/capsule_231x87.jpg?t=1530358494",
+    "storeUrl": "https://store.steampowered.com/app/693430/",
+    "tags": [
+      "Early Access",
+      "Casual",
+      "Action",
+      "Gore",
+      "Violent",
+      "Indie"
+    ],
+    "genres": [
+      "Violent",
+      "Gore",
+      "Action",
+      "Casual",
+      "Indie",
+      "Early Access"
+    ],
+    "isFree": false,
+    "price": "¥ 28.00",
+    "releaseDate": "22 Sep, 2017",
+    "lastModified": 1530358494,
+    "recommendationTotal": 0,
+    "ignUrl": "https://www.ign.com/games/the-simple-apocalypse"
+  },
+  {
+    "appid": 693450,
+    "name": "Clad in Iron: Gulf of Mexico 1864",
+    "shortDescription": "Manage your fleet and army, hunt the enemy's fleet, hide your weak squadrons in protected ports until reinforcements arrive, blockade enemy trade routes, amphibious assaults, struggle for dominance over the seas in turned-based strategic mode.",
+    "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/693450/header.jpg?t=1759951067",
+    "capsuleImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/693450/capsule_231x87.jpg?t=1759951067",
+    "storeUrl": "https://store.steampowered.com/app/693450/",
+    "tags": [
+      "Strategy",
+      "Simulation",
+      "Naval",
+      "Naval Combat"
+    ],
+    "genres": [
+      "Simulation",
+      "Strategy"
+    ],
+    "isFree": false,
+    "price": "¥ 80.00",
+    "releaseDate": "5 Sep, 2017",
+    "lastModified": 1759951067,
+    "recommendationTotal": 0,
+    "ignUrl": "https://www.ign.com/games/clad-in-iron-gulf-of-mexico-1864"
+  },
+  {
+    "appid": 693500,
+    "name": "Castle Demolition VR",
+    "shortDescription": "Castle Demolition VR is a casual game that allows the player to unleash total destruction upon unsuspecting structures. With 15 challenging levels to play, the good times just keep on rolling!",
+    "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/693500/header.jpg?t=1504280066",
+    "capsuleImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/693500/capsule_231x87.jpg?t=1504280066",
+    "storeUrl": "https://store.steampowered.com/app/693500/",
+    "tags": [
+      "Indie",
+      "Casual",
+      "VR",
+      "Destruction"
+    ],
+    "genres": [
+      "Casual",
+      "Indie"
+    ],
+    "isFree": false,
+    "price": "¥ 6.00",
+    "releaseDate": "1 Sep, 2017",
+    "lastModified": 1504280066,
+    "recommendationTotal": 0,
+    "ignUrl": "https://www.ign.com/games/castle-demolition-vr"
+  },
+  {
+    "appid": 693560,
+    "name": "After Rain: Phoenix Rise",
+    "shortDescription": "The Rain fell, and washed away all that was good. Ancestors of the survivors face a world plagued by deadly disease, hostile landscapes that offer no safe haven, and brutal warlords beholden to a malevolent A.I. that seeks to enslave mankind and control the natural world. This is life After Rain.",
+    "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/693560/header.jpg?t=1595591208",
+    "capsuleImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/693560/capsule_231x87.jpg?t=1595591208",
+    "storeUrl": "https://store.steampowered.com/app/693560/",
+    "tags": [
+      "Action",
+      "Adventure",
+      "Indie"
+    ],
+    "genres": [
+      "Action",
+      "Adventure",
+      "Indie"
+    ],
+    "isFree": false,
+    "price": "¥ 28.00",
+    "releaseDate": "15 Dec, 2017",
+    "lastModified": 1595591208,
+    "recommendationTotal": 0,
+    "ignUrl": "https://www.ign.com/games/after-rain-phoenix-rise"
+  },
+  {
+    "appid": 693650,
+    "name": "LOGistICAL: Italy",
+    "shortDescription": "LOGistICAL: Italy brings you all the fun and puzzling of LOGistICAL with even more towns, more puzzles and much more to do. Over 1400 towns to Complete. LOGistICAL: Italy game covers the mainland of Italy as well as the islands, including of Sicily and Sardinia. There are many new obstacles and deliveries to make.",
+    "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/693650/header.jpg?t=1560214686",
+    "capsuleImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/693650/capsule_231x87.jpg?t=1560214686",
+    "storeUrl": "https://store.steampowered.com/app/693650/",
+    "tags": [
+      "Strategy",
+      "Casual",
+      "Indie",
+      "Puzzle",
+      "Resource Management",
+      "Transportation",
+      "Education"
+    ],
+    "genres": [
+      "Casual",
+      "Indie",
+      "Strategy"
+    ],
+    "isFree": false,
+    "price": "¥ 36.00",
+    "releaseDate": "22 Aug, 2017",
+    "lastModified": 1560214686,
+    "recommendationTotal": 0,
+    "ignUrl": "https://www.ign.com/games/logistical-italy"
+  },
+  {
+    "appid": 693670,
+    "name": "Molten Armor",
+    "shortDescription": "Molten Armor is an action tower defense game with a non-linear story in sci-fi setting! Command defenses and stop hordes of enemies! Fight on land, sea and in the skies!Decisions taken in the heat of battle will change the course of the war.",
+    "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/693670/header.jpg?t=1703930029",
+    "capsuleImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/693670/capsule_231x87.jpg?t=1703930029",
+    "storeUrl": "https://store.steampowered.com/app/693670/",
+    "tags": [
+      "Strategy",
+      "Tower Defense",
+      "Singleplayer",
+      "RTS",
+      "Action",
+      "Casual",
+      "Real Time Tactics",
+      "Wargame",
+      "Nonlinear",
+      "Sci-fi",
+      "Futuristic",
+      "Story Rich",
+      "Difficult",
+      "2D",
+      "Top-Down",
+      "War",
+      "Old School",
+      "Indie",
+      "Multiple Endings",
+      "Choices Matter"
+    ],
+    "genres": [
+      "Action",
+      "Indie",
+      "Strategy"
+    ],
+    "isFree": false,
+    "price": "¥ 37.00",
+    "releaseDate": "20 Oct, 2017",
+    "lastModified": 1703930029,
+    "recommendationTotal": 0,
+    "ignUrl": "https://www.ign.com/games/molten-armor"
+  },
+  {
+    "appid": 693790,
+    "name": "Crypt Hunter",
+    "shortDescription": "An action VR roguelike.",
+    "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/693790/header.jpg?t=1505433323",
+    "capsuleImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/693790/capsule_231x87.jpg?t=1505433323",
+    "storeUrl": "https://store.steampowered.com/app/693790/",
+    "tags": [
+      "Early Access",
+      "VR"
+    ],
+    "genres": [
+      "Early Access"
+    ],
+    "isFree": false,
+    "price": "¥ 36.00",
+    "releaseDate": "14 Sep, 2017",
+    "lastModified": 1505433323,
+    "recommendationTotal": 0,
+    "ignUrl": "https://www.ign.com/games/crypt-hunter"
+  },
+  {
+    "appid": 693810,
+    "name": "Treasure At The Top",
+    "shortDescription": "Slice monsters. Release energy balls. Uncover mysteries.",
+    "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/693810/header.jpg?t=1506438166",
+    "capsuleImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/693810/capsule_231x87.jpg?t=1506438166",
+    "storeUrl": "https://store.steampowered.com/app/693810/",
+    "tags": [
+      "Free to Play",
+      "Adventure",
+      "VR",
+      "Simulation",
+      "Strategy",
+      "Action",
+      "Indie"
+    ],
+    "genres": [
+      "Action",
+      "Adventure",
+      "Free To Play",
+      "Indie",
+      "Simulation",
+      "Strategy"
+    ],
+    "isFree": true,
+    "price": "免费",
+    "releaseDate": "15 Sep, 2017",
+    "lastModified": 1506438166,
+    "recommendationTotal": 0,
+    "ignUrl": "https://www.ign.com/games/treasure-at-the-top"
+  },
+  {
+    "appid": 693820,
+    "name": "The Ragdoll",
+    "shortDescription": "The Ragdoll is a fast-paced stickman-fighting game where you can challenge your friends and strangers, but you can also play co-operative tournaments with them if you feel like it.",
+    "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/693820/header.jpg?t=1574116538",
+    "capsuleImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/693820/capsule_231x87.jpg?t=1574116538",
+    "storeUrl": "https://store.steampowered.com/app/693820/",
+    "tags": [
+      "Action",
+      "Indie",
+      "Casual",
+      "Gore",
+      "Violent"
+    ],
+    "genres": [
+      "Action",
+      "Casual",
+      "Indie"
+    ],
+    "isFree": false,
+    "price": "¥ 22.00",
+    "releaseDate": "18 Nov, 2019",
+    "lastModified": 1574116538,
+    "recommendationTotal": 0,
+    "ignUrl": "https://www.ign.com/games/the-ragdoll"
+  },
+  {
+    "appid": 693830,
+    "name": "Containment Corps",
+    "shortDescription": "The laser bow wielding security force has been called in. Fulfill your obligation to the Containment Corporation, keep the energy bases operational. Containment Corps mixes first person action with co-operative strategy and tower defense elements.",
+    "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/693830/header.jpg?t=1634427247",
+    "capsuleImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/693830/capsule_231x87.jpg?t=1634427247",
+    "storeUrl": "https://store.steampowered.com/app/693830/",
+    "tags": [
+      "Action",
+      "Adventure",
+      "Indie",
+      "Free to Play",
+      "FPS",
+      "Multiplayer",
+      "Early Access",
+      "Tower Defense",
+      "Co-op",
+      "Online Co-Op"
+    ],
+    "genres": [
+      "Action",
+      "Adventure",
+      "Free To Play",
+      "Indie",
+      "Early Access"
+    ],
+    "isFree": true,
+    "price": "免费",
+    "releaseDate": "20 Sep, 2017",
+    "lastModified": 1634427247,
+    "recommendationTotal": 0,
+    "ignUrl": "https://www.ign.com/games/containment-corps"
+  },
+  {
+    "appid": 693880,
+    "name": "Trivia Vault: 1980's Trivia 2",
+    "shortDescription": "Answer 1980s category trivia questions as quickly as you can, the faster you answer the higher the cash value. Correct answers lock in the digit code for the vault, 10 correct answers cracks the vault and awards bonus cash. Track your progress and aim for higher scores to accomplish higher ranks.",
+    "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/693880/header.jpg?t=1639607925",
+    "capsuleImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/693880/capsule_231x87.jpg?t=1639607925",
+    "storeUrl": "https://store.steampowered.com/app/693880/",
+    "tags": [
+      "Casual",
+      "Indie",
+      "Simulation",
+      "Strategy",
+      "Action",
+      "Trivia",
+      "Family Friendly",
+      "2D",
+      "Retro",
+      "Singleplayer",
+      "Replay Value",
+      "Puzzle",
+      "Word Game",
+      "Text-Based",
+      "1980s",
+      "Time Management",
+      "Relaxing",
+      "Story Rich",
+      "Board Game",
+      "Logic"
+    ],
+    "genres": [
+      "Action",
+      "Casual",
+      "Indie",
+      "Simulation",
+      "Strategy"
+    ],
+    "isFree": false,
+    "price": "¥ 56.00",
+    "releaseDate": "22 Aug, 2017",
+    "lastModified": 1639607925,
+    "recommendationTotal": 0,
+    "ignUrl": "https://www.ign.com/games/trivia-vault-1980-s-trivia-2"
+  },
+  {
+    "appid": 693890,
+    "name": "Trivia Vault: Classic Rock Trivia 2",
+    "shortDescription": "Play as a contestant in a gameshow called Trivia Vault Classic Rock Trivia 2. Answer classic rock trivia questions as quickly as you can, the faster you answer the higher the cash value. Correct answers lock in the digit code for the vault, 10 correct answers cracks the vault and awards bonus cash.",
+    "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/693890/header.jpg?t=1639612102",
+    "capsuleImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/693890/capsule_231x87.jpg?t=1639612102",
+    "storeUrl": "https://store.steampowered.com/app/693890/",
+    "tags": [
+      "Casual",
+      "Simulation",
+      "Strategy",
+      "Indie",
+      "Trivia",
+      "Text-Based",
+      "Puzzle",
+      "Music",
+      "2D",
+      "Retro",
+      "Singleplayer",
+      "Replay Value",
+      "Family Friendly",
+      "Choices Matter",
+      "1990's",
+      "1980s",
+      "Relaxing",
+      "Story Rich",
+      "Point &amp; Click"
+    ],
+    "genres": [
+      "Casual",
+      "Indie",
+      "Simulation",
+      "Strategy"
+    ],
+    "isFree": false,
+    "price": "¥ 56.00",
+    "releaseDate": "23 Aug, 2017",
+    "lastModified": 1639612102,
+    "recommendationTotal": 0,
+    "ignUrl": "https://www.ign.com/games/trivia-vault-classic-rock-trivia-2"
+  },
+  {
+    "appid": 693940,
+    "name": "Orrstead",
+    "shortDescription": "Orrstead is a relaxing city builder that combines resource management and incremental game mechanics. Unlock technologies, complete quests, and adapt to the changing seasons.",
+    "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/693940/header.jpg?t=1728269994",
+    "capsuleImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/693940/capsule_231x87.jpg?t=1728269994",
+    "storeUrl": "https://store.steampowered.com/app/693940/",
+    "tags": [
+      "City Builder",
+      "Sandbox",
+      "Colony Sim",
+      "Building",
+      "Management",
+      "Medieval",
+      "Base Building",
+      "Strategy",
+      "3D",
+      "Isometric",
+      "Top-Down",
+      "Relaxing",
+      "Simulation",
+      "Casual",
+      "Minimalist",
+      "Colorful",
+      "Resource Management",
+      "Singleplayer",
+      "Indie",
+      "Pixel Graphics"
+    ],
+    "genres": [
+      "Indie",
+      "Simulation",
+      "Strategy"
+    ],
+    "isFree": false,
+    "price": "¥ 42.00",
+    "releaseDate": "6 Mar, 2024",
+    "lastModified": 1728269994,
+    "recommendationTotal": 0,
+    "ignUrl": "https://www.ign.com/games/orrstead"
+  },
+  {
+    "appid": 693950,
+    "name": "カニマン VS メカモンキー",
+    "shortDescription": "Unforgivable! This time's Monkey-Crab Battle was horrible, wasn't it?! The Kaniman(Werecrab) clan was thrown down into the fiery pits of the Nabe by the Mechanical monkey squad. Will Kaniman, bereft of his clan, throw or be thrown down? The battle for revenge starts now!",
+    "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/693950/header.jpg?t=1509528384",
+    "capsuleImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/693950/capsule_231x87.jpg?t=1509528384",
+    "storeUrl": "https://store.steampowered.com/app/693950/",
+    "tags": [
+      "Action"
+    ],
+    "genres": [
+      "Action"
+    ],
+    "isFree": false,
+    "price": "¥ 15.00",
+    "releaseDate": "27 Oct, 2017",
+    "lastModified": 1509528384,
+    "recommendationTotal": 0,
+    "ignUrl": "https://www.ign.com/games/vs"
+  },
+  {
+    "appid": 694110,
+    "name": "Build a Bridge!",
+    "shortDescription": "Bridge building game that will test your engineering skills across multiple levels in five different worlds! Complete mind-bending challenges in a stylized and colorful world!",
+    "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/694110/5e9910e320d699bf6384e52a4cace68cc385490d/header.jpg?t=1759493551",
+    "capsuleImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/694110/991366d0146820b2cda48d298fc88677070393aa/capsule_231x87.jpg?t=1759493551",
+    "storeUrl": "https://store.steampowered.com/app/694110/",
+    "tags": [
+      "Simulation",
+      "Building"
+    ],
+    "genres": [
+      "Simulation"
+    ],
+    "isFree": false,
+    "price": "¥ 37.00",
+    "releaseDate": "18 Sep, 2025",
+    "lastModified": 1759493551,
+    "recommendationTotal": 0,
+    "ignUrl": "https://www.ign.com/games/build-a-bridge"
+  },
+  {
+    "appid": 694130,
+    "name": "My Free Zoo",
+    "shortDescription": "A small zoo needs your help! As the new manager, it's your job to boost business. Design the zoo of your dreams. From wolves and polar bears all the way to prehistoric beasts – the further you progress in the game, the more exotic the animals you'll be able to keep in your zoo. Play now and save the zoo!",
+    "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/694130/header.jpg?t=1727882923",
+    "capsuleImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/694130/441aee332a33aba5b8f85af3717aff6bc62faeaf/capsule_231x87.jpg?t=1727882923",
+    "storeUrl": "https://store.steampowered.com/app/694130/",
+    "tags": [
+      "Free to Play",
+      "Casual",
+      "Simulation",
+      "Zoo",
+      "Animals",
+      "City Builder",
+      "Building",
+      "Multiplayer",
+      "Cute",
+      "Relaxing",
+      "Strategy",
+      "Management",
+      "Singleplayer",
+      "Co-op",
+      "Incremental",
+      "Colorful",
+      "Isometric",
+      "Crafting",
+      "2D",
+      "Nature"
+    ],
+    "genres": [
+      "Casual",
+      "Simulation",
+      "Free To Play"
+    ],
+    "isFree": true,
+    "price": "免费",
+    "releaseDate": "28 Nov, 2017",
+    "lastModified": 1727882923,
+    "recommendationTotal": 0,
+    "ignUrl": "https://www.ign.com/games/my-free-zoo"
+  },
+  {
+    "appid": 694140,
+    "name": "Undercity",
+    "shortDescription": "Undercity is a challenging action game about rushing through tunnels on a jet-powered board at high speed. Dodge whatever comes your way and unlock new powers as you progress. The game was created entirely by a single developer.",
+    "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/694140/header.jpg?t=1520233554",
+    "capsuleImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/694140/capsule_231x87.jpg?t=1520233554",
+    "storeUrl": "https://store.steampowered.com/app/694140/",
+    "tags": [
+      "Action",
+      "Indie"
+    ],
+    "genres": [
+      "Action",
+      "Indie"
+    ],
+    "isFree": false,
+    "price": "¥ 26.00",
+    "releaseDate": "19 Sep, 2017",
+    "lastModified": 1520233554,
+    "recommendationTotal": 0,
+    "ignUrl": "https://www.ign.com/games/undercity"
+  },
+  {
+    "appid": 694150,
+    "name": "Abyssal Fall",
+    "shortDescription": "Abyssal Fall is a fast paced arena action game where every tile of the arena will fall one second after you step on it.Trap, bait &amp; pressure your opponents in order to make them do a mistake and punish them with your special ability.",
+    "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/694150/header.jpg?t=1504960809",
+    "capsuleImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/694150/capsule_231x87.jpg?t=1504960809",
+    "storeUrl": "https://store.steampowered.com/app/694150/",
+    "tags": [
+      "Action",
+      "Indie",
+      "Casual"
+    ],
+    "genres": [
+      "Action",
+      "Casual",
+      "Indie"
+    ],
+    "isFree": false,
+    "price": "¥ 6.00",
+    "releaseDate": "26 Aug, 2017",
+    "lastModified": 1504960809,
+    "recommendationTotal": 0,
+    "ignUrl": "https://www.ign.com/games/abyssal-fall"
+  },
+  {
+    "appid": 694160,
+    "name": "Guardians of Life VR",
+    "shortDescription": "Dark magic has been awakened ! The horde of undead skeletons rises and coming for last bastion of life:Tree of Life. Dont let them to enter the castle. Use shield to cover from arrows and axes. Become a Guardian and protect last hope of life !",
+    "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/694160/header.jpg?t=1520521857",
+    "capsuleImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/694160/capsule_231x87.jpg?t=1520521857",
+    "storeUrl": "https://store.steampowered.com/app/694160/",
+    "tags": [
+      "Action",
+      "Adventure",
+      "Indie",
+      "Early Access",
+      "Simulation",
+      "VR"
+    ],
+    "genres": [
+      "Action",
+      "Adventure",
+      "Indie",
+      "Simulation",
+      "Early Access"
+    ],
+    "isFree": false,
+    "price": "¥ 22.00",
+    "releaseDate": "25 Sep, 2017",
+    "lastModified": 1520521857,
+    "recommendationTotal": 0,
+    "ignUrl": "https://www.ign.com/games/guardians-of-life-vr"
+  },
+  {
+    "appid": 694180,
+    "name": "MobileZombie",
+    "shortDescription": "This is a single-player, narrative based, casual advertising game.",
+    "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/694180/header.jpg?t=1519962125",
+    "capsuleImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/694180/capsule_231x87.jpg?t=1519962125",
+    "storeUrl": "https://store.steampowered.com/app/694180/",
+    "tags": [
+      "Adventure",
+      "Free to Play",
+      "Indie",
+      "Casual"
+    ],
+    "genres": [
+      "Adventure",
+      "Casual",
+      "Free To Play",
+      "Indie"
+    ],
+    "isFree": true,
+    "price": "免费",
+    "releaseDate": "13 Oct, 2017",
+    "lastModified": 1519962125,
+    "recommendationTotal": 0,
+    "ignUrl": "https://www.ign.com/games/mobilezombie"
+  },
+  {
+    "appid": 694230,
+    "name": "Martha Madison: Energy",
+    "shortDescription": "In Martha Madison: Energy, Martha needs your help to deliver a care package to her friend Mole, who is home, sick in bed. The only problem is that his care package was mistakenly delivered to the wrong location!",
+    "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/694230/header.jpg?t=1523044167",
+    "capsuleImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/694230/capsule_231x87.jpg?t=1523044167",
+    "storeUrl": "https://store.steampowered.com/app/694230/",
+    "tags": [
+      "Indie",
+      "Casual"
+    ],
+    "genres": [
+      "Casual",
+      "Indie"
+    ],
+    "isFree": false,
+    "price": "¥ 11.00",
+    "releaseDate": "8 Feb, 2018",
+    "lastModified": 1523044167,
+    "recommendationTotal": 0,
+    "ignUrl": "https://www.ign.com/games/martha-madison-energy"
+  },
+  {
+    "appid": 694240,
+    "name": "Martha Madison: Waves",
+    "shortDescription": "Waves to the rescue! As a storm approaches, Martha Madison: Waves challenges players to use the science of waves to rescue Martha’s animal friends. Working as virtual scientists, players use a powerful machine to create transverse waves along ropes and longitudinal waves through water.",
+    "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/694240/header.jpg?t=1523046392",
+    "capsuleImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/694240/capsule_231x87.jpg?t=1523046392",
+    "storeUrl": "https://store.steampowered.com/app/694240/",
+    "tags": [
+      "Indie",
+      "Casual"
+    ],
+    "genres": [
+      "Casual",
+      "Indie"
+    ],
+    "isFree": false,
+    "price": "¥ 11.00",
+    "releaseDate": "8 Feb, 2018",
+    "lastModified": 1523046392,
+    "recommendationTotal": 0,
+    "ignUrl": "https://www.ign.com/games/martha-madison-waves"
+  },
+  {
+    "appid": 694420,
+    "name": "Alimardan's Mischief",
+    "shortDescription": "“Ali Mardan’s Mischief’s” is a cheerful musical game directed at children that narrates the naughty behavior of a little boy who has driven everyone nuts with his shenanigans! No matter how easy or appealing naughtiness, messing up the kitchen, putting banana peels on the floor, and poking chickens with sticks might seem, it is not so...",
+    "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/694420/header.jpg?t=1759950651",
+    "capsuleImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/694420/capsule_231x87.jpg?t=1759950651",
+    "storeUrl": "https://store.steampowered.com/app/694420/",
+    "tags": [
+      "Adventure",
+      "Point &amp; Click",
+      "Comedy",
+      "Indie",
+      "Funny"
+    ],
+    "genres": [
+      "Adventure"
+    ],
+    "isFree": false,
+    "price": "¥ 22.00",
+    "releaseDate": "24 Aug, 2017",
+    "lastModified": 1759950651,
+    "recommendationTotal": 0,
+    "ignUrl": "https://www.ign.com/games/alimardan-s-mischief"
+  },
+  {
+    "appid": 694430,
+    "name": "Alimardan Meets Merlin",
+    "shortDescription": "Merlin, the wizard? The Wizard of Oz? Or the wicked Morgana, daughter of Uther, the Enchanter? None! Seeing some aliens on his way to the moon, Ali Mardan Khan decides to jump out of the spaceship. Little did he know that his calculations were wrong and so he finds himself in the Middle Ages.",
+    "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/694430/header.jpg?t=1759950643",
+    "capsuleImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/694430/capsule_231x87.jpg?t=1759950643",
+    "storeUrl": "https://store.steampowered.com/app/694430/",
+    "tags": [
+      "Adventure",
+      "Point &amp; Click",
+      "Indie",
+      "Puzzle",
+      "Funny",
+      "Medieval",
+      "Comedy",
+      "Hidden Object"
+    ],
+    "genres": [
+      "Adventure"
+    ],
+    "isFree": false,
+    "price": "¥ 26.00",
+    "releaseDate": "24 Aug, 2017",
+    "lastModified": 1759950643,
+    "recommendationTotal": 0,
+    "ignUrl": "https://www.ign.com/games/alimardan-meets-merlin"
+  },
+  {
+    "appid": 694440,
+    "name": "Man of Law | Judge simulator",
+    "shortDescription": "In our game you can immerse in the world of the most progressive and controversial justice system in the world, cover a career path from an alumnus of prestigious law school to the head of the county court.",
+    "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/694440/header.jpg?t=1513985580",
+    "capsuleImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/694440/capsule_231x87.jpg?t=1513985580",
+    "storeUrl": "https://store.steampowered.com/app/694440/",
+    "tags": [
+      "Simulation",
+      "Indie",
+      "Early Access",
+      "Casual",
+      "Adventure",
+      "Interactive Fiction",
+      "Visual Novel"
+    ],
+    "genres": [
+      "Adventure",
+      "Casual",
+      "Indie",
+      "Simulation",
+      "Early Access"
+    ],
+    "isFree": false,
+    "price": "¥ 28.00",
+    "releaseDate": "22 Dec, 2017",
+    "lastModified": 1513985580,
+    "recommendationTotal": 0,
+    "ignUrl": "https://www.ign.com/games/man-of-law-judge-simulator"
+  },
+  {
+    "appid": 694470,
+    "name": "Guitar Hardness",
+    "shortDescription": "Guitar Hardness is a music rhythm game in which the players play instruments and need to hit the notes. The game is always very hard and challenging!",
+    "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/694470/header.jpg?t=1505320191",
+    "capsuleImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/694470/capsule_231x87.jpg?t=1505320191",
+    "storeUrl": "https://store.steampowered.com/app/694470/",
+    "tags": [
+      "Casual",
+      "Indie",
+      "Music",
+      "Rhythm"
+    ],
+    "genres": [
+      "Casual",
+      "Indie"
+    ],
+    "isFree": false,
+    "price": "¥ 6.00",
+    "releaseDate": "13 Sep, 2017",
+    "lastModified": 1505320191,
+    "recommendationTotal": 0,
+    "ignUrl": "https://www.ign.com/games/guitar-hardness"
+  },
+  {
+    "appid": 694480,
+    "name": "DOTFI",
+    "shortDescription": "Do you have what it takes to defend what is yours? This is not a typical tower defense game where the troops do all the work. This is a hybrid FPS/TPS tower defense game which you take over the control to defend your island.",
+    "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/694480/header.jpg?t=1788891548",
+    "capsuleImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/694480/capsule_231x87.jpg?t=1788891548",
+    "storeUrl": "https://store.steampowered.com/app/694480/",
+    "tags": [
+      "Action",
+      "Strategy",
+      "Indie",
+      "Tanks",
+      "Tower Defense",
+      "Shooter",
+      "Open World Survival Craft",
+      "Third-Person Shooter",
+      "Realistic",
+      "3D",
+      "Stylized",
+      "Survival",
+      "Sci-fi",
+      "Crafting",
+      "Base Building",
+      "Robots",
+      "FPS",
+      "Casual",
+      "Cyberpunk",
+      "Shoot 'Em Up"
+    ],
+    "genres": [
+      "Action",
+      "Indie",
+      "Strategy"
+    ],
+    "isFree": false,
+    "price": "¥ 11.00",
+    "releaseDate": "27 May, 2020",
+    "lastModified": 1788891548,
+    "recommendationTotal": 0,
+    "ignUrl": "https://www.ign.com/games/dotfi"
+  },
+  {
+    "appid": 694490,
+    "name": "Quad Hopping",
+    "shortDescription": "The simplest puzzle game is the reaction and the ability to make quick decisions. As we move, we score points and the game gradually accelerates, it is already harder to catch up on the cherished platform to jump even further, to a greater result.",
+    "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/694490/header.jpg?t=1506372229",
+    "capsuleImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/694490/capsule_231x87.jpg?t=1506372229",
+    "storeUrl": "https://store.steampowered.com/app/694490/",
+    "tags": [
+      "Indie",
+      "Casual",
+      "Adventure",
+      "Platformer"
+    ],
+    "genres": [
+      "Adventure",
+      "Casual",
+      "Indie"
+    ],
+    "isFree": false,
+    "price": "¥ 6.00",
+    "releaseDate": "23 Aug, 2017",
+    "lastModified": 1506372229,
+    "recommendationTotal": 0,
+    "ignUrl": "https://www.ign.com/games/quad-hopping"
+  },
+  {
+    "appid": 694520,
+    "name": "His Chuunibyou Cannot Be Cured!",
+    "shortDescription": "Jun Mizushima, is ordinary in every way, except for the fact that he’s the only son of a wealthy businessman and that dabbles in video game development in his spare time. He also has an ability to make everything he wishes a reality. Or, so he thinks.",
+    "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/694520/header.jpg?t=1725522670",
+    "capsuleImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/694520/capsule_231x87.jpg?t=1725522670",
+    "storeUrl": "https://store.steampowered.com/app/694520/",
+    "tags": [
+      "Casual",
+      "Visual Novel",
+      "Anime",
+      "Singleplayer",
+      "Cute",
+      "Romance"
+    ],
+    "genres": [
+      "Casual"
+    ],
+    "isFree": false,
+    "price": "¥ 48.00",
+    "releaseDate": "22 Mar, 2018",
+    "lastModified": 1725522670,
+    "recommendationTotal": 0,
+    "ignUrl": "https://www.ign.com/games/his-chuunibyou-cannot-be-cured"
+  },
+  {
+    "appid": 694550,
+    "name": "Audio Forager",
+    "shortDescription": "Feel the magic of Machine Learning in this new experiment that combines over 44,000 sounds from Freesound.org, a data set created by Kyle McDonald and a touch of Cabbibo weirdness. Run your hands through a cloud of sound, select your favorite clips and make a drum set from this aural smorgasbord!",
+    "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/694550/header.jpg?t=1520032536",
+    "capsuleImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/694550/capsule_231x87.jpg?t=1520032536",
+    "storeUrl": "https://store.steampowered.com/app/694550/",
+    "tags": [
+      "Free to Play",
+      "Indie",
+      "Casual",
+      "Simulation",
+      "VR"
+    ],
+    "genres": [
+      "Casual",
+      "Free To Play",
+      "Indie",
+      "Simulation"
+    ],
+    "isFree": true,
+    "price": "免费",
+    "releaseDate": "2 Mar, 2018",
+    "lastModified": 1520032536,
+    "recommendationTotal": 0,
+    "ignUrl": "https://www.ign.com/games/audio-forager"
+  },
+  {
+    "appid": 694610,
+    "name": "Lumak's Wraptiles",
+    "shortDescription": "A tile puzzle game inspired by Rubik's Cube but in 2D. 50 puzzles to play made up of color puzzles , numbered puzzles and picture puzzles. Game comes with a built-in puzzle creator which will allow you to create your own custom puzzles to share with your friends and family.",
+    "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/694610/header.jpg?t=1503122571",
+    "capsuleImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/694610/capsule_231x87.jpg?t=1503122571",
+    "storeUrl": "https://store.steampowered.com/app/694610/",
+    "tags": [
+      "Indie",
+      "Casual"
+    ],
+    "genres": [
+      "Casual",
+      "Indie"
+    ],
+    "isFree": false,
+    "price": "¥ 21.00",
+    "releaseDate": "18 Aug, 2017",
+    "lastModified": 1503122571,
+    "recommendationTotal": 0,
+    "ignUrl": "https://www.ign.com/games/lumak-s-wraptiles"
+  },
+  {
+    "appid": 694660,
+    "name": "End of Days",
+    "shortDescription": "You may explore, craft, customize, and strategize. In this world you'll encounter many mythical creatures, solve puzzles, and combat enemy factions. Play with your friends or play solo, the experience will be different each time. Do you have what it takes to survive?",
+    "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/694660/header.jpg?t=1599938722",
+    "capsuleImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/694660/capsule_231x87.jpg?t=1599938722",
+    "storeUrl": "https://store.steampowered.com/app/694660/",
+    "tags": [
+      "Early Access",
+      "Action",
+      "Indie",
+      "Violent",
+      "VR",
+      "Gun Customization",
+      "Archery",
+      "Magic",
+      "Stylized",
+      "Swordplay",
+      "Shooter",
+      "Exploration",
+      "Zombies",
+      "Survival"
+    ],
+    "genres": [
+      "Action",
+      "Indie",
+      "Early Access"
+    ],
+    "isFree": false,
+    "price": "¥ 37.00",
+    "releaseDate": "27 Sep, 2017",
+    "lastModified": 1599938722,
+    "recommendationTotal": 0,
+    "ignUrl": "https://www.ign.com/games/end-of-days"
+  },
+  {
+    "appid": 694670,
+    "name": "Charpi",
+    "shortDescription": "new game that, despite the simple graphics and management is very difficult, because when you touch the ball with the red mills, you need to start the level again. If you want to practice your patience, then this game is for you! Interested? Just come and go through all the levels of the game!",
+    "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/694670/header.jpg?t=1594372449",
+    "capsuleImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/694670/capsule_231x87.jpg?t=1594372449",
+    "storeUrl": "https://store.steampowered.com/app/694670/",
+    "tags": [
+      "Indie",
+      "Casual",
+      "Early Access"
+    ],
+    "genres": [
+      "Casual",
+      "Indie",
+      "Early Access"
+    ],
+    "isFree": false,
+    "price": "¥ 11.00",
+    "releaseDate": "31 Aug, 2017",
+    "lastModified": 1594372449,
+    "recommendationTotal": 0,
+    "ignUrl": "https://www.ign.com/games/charpi"
+  },
+  {
+    "appid": 694680,
+    "name": "Santa Claws",
+    "shortDescription": "He sees you when you're sleeping. He knows when you're awake. He knows if you've been bad, or good. So be good... for goodness sake... Santa Claws is coming to town.",
+    "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/694680/header.jpg?t=1576886280",
+    "capsuleImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/694680/capsule_231x87.jpg?t=1576886280",
+    "storeUrl": "https://store.steampowered.com/app/694680/",
+    "tags": [
+      "Exploration",
+      "Walking Simulator",
+      "First-Person",
+      "Horror",
+      "Multiple Endings",
+      "Action",
+      "Demons",
+      "Adventure",
+      "Dark",
+      "Singleplayer",
+      "Co-op",
+      "Indie",
+      "Soundtrack"
+    ],
+    "genres": [
+      "Action",
+      "Adventure",
+      "Indie"
+    ],
+    "isFree": false,
+    "price": "¥ 6.00",
+    "releaseDate": "13 Dec, 2019",
+    "lastModified": 1576886280,
+    "recommendationTotal": 0,
+    "ignUrl": "https://www.ign.com/games/santa-claws"
+  },
+  {
+    "appid": 694730,
+    "name": "Evil Park",
+    "shortDescription": "Evil Park is an atmospheric horror game, based on simulating obscure situations of distress, insecurity and anxiety.",
+    "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/694730/header.jpg?t=1504296111",
+    "capsuleImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/694730/capsule_231x87.jpg?t=1504296111",
+    "storeUrl": "https://store.steampowered.com/app/694730/",
+    "tags": [
+      "Violent",
+      "Indie",
+      "Gore",
+      "Horror",
+      "Atmospheric",
+      "Dark"
+    ],
+    "genres": [
+      "Violent",
+      "Gore",
+      "Indie"
+    ],
+    "isFree": false,
+    "price": "¥ 18.00",
+    "releaseDate": "1 Sep, 2017",
+    "lastModified": 1504296111,
+    "recommendationTotal": 0,
+    "ignUrl": "https://www.ign.com/games/evil-park"
+  },
+  {
+    "appid": 694760,
+    "name": "Sweaty Palms",
+    "shortDescription": "Climb, swing, fly, and shoot in a visceral fast-paced VR multiplayer action arena. Fight like a superhero, die like one.",
+    "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/694760/header.jpg?t=1514338803",
+    "capsuleImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/694760/capsule_231x87.jpg?t=1514338803",
+    "storeUrl": "https://store.steampowered.com/app/694760/",
+    "tags": [
+      "Action",
+      "Indie",
+      "Early Access",
+      "VR"
+    ],
+    "genres": [
+      "Action",
+      "Indie",
+      "Early Access"
+    ],
+    "isFree": false,
+    "price": "¥ 37.00",
+    "releaseDate": "6 Nov, 2017",
+    "lastModified": 1514338803,
+    "recommendationTotal": 0,
+    "ignUrl": "https://www.ign.com/games/sweaty-palms"
+  },
+  {
+    "appid": 694830,
+    "name": "Give It Up! Plus / 永不言弃 PLUS",
+    "shortDescription": "Give It Up! Plus is an impossible music game that will challenge your skills and reflexes. If you enjoy sweating during the game, this is for you. Just don't blame the game if you start breaking things.",
+    "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/694830/header.jpg?t=1595418160",
+    "capsuleImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/694830/capsule_231x87.jpg?t=1595418160",
+    "storeUrl": "https://store.steampowered.com/app/694830/",
+    "tags": [
+      "Indie",
+      "Casual",
+      "Music",
+      "Rhythm",
+      "Difficult",
+      "Platformer",
+      "Great Soundtrack"
+    ],
+    "genres": [
+      "Casual",
+      "Indie"
+    ],
+    "isFree": false,
+    "price": "¥ 15.00",
+    "releaseDate": "30 Jan, 2019",
+    "lastModified": 1595418160,
+    "recommendationTotal": 0,
+    "ignUrl": "https://www.ign.com/games/give-it-up-plus-plus"
+  },
+  {
+    "appid": 694930,
+    "name": "Lost God",
+    "shortDescription": "Experience atmospheric exploration gameplay on your journey through several breathtaking areas, from a vibrant forest to overgrown ruins and dark tunnels. Secrets await around every corner, waiting to be unearthed.",
+    "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/694930/header.jpg?t=1584695459",
+    "capsuleImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/694930/capsule_231x87.jpg?t=1584695459",
+    "storeUrl": "https://store.steampowered.com/app/694930/",
+    "tags": [
+      "Action",
+      "Indie",
+      "Adventure",
+      "Action-Adventure",
+      "Action RPG",
+      "Exploration"
+    ],
+    "genres": [
+      "Action",
+      "Adventure",
+      "Indie"
+    ],
+    "isFree": false,
+    "price": "¥ 37.00",
+    "releaseDate": "7 Feb, 2018",
+    "lastModified": 1584695459,
+    "recommendationTotal": 0,
+    "ignUrl": "https://www.ign.com/games/lost-god"
+  },
+  {
+    "appid": 694950,
+    "name": "Oure",
+    "shortDescription": "Take flight in a dream-like cloudscape as you seek to reawaken the relics of a lost civilisation. As a unique child born with the powers of the ancient dragons, your parents cast you from the stricken surface into the land above the skies.",
+    "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/694950/header.jpg?t=1510704089",
+    "capsuleImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/694950/capsule_231x87.jpg?t=1510704089",
+    "storeUrl": "https://store.steampowered.com/app/694950/",
+    "tags": [
+      "Casual",
+      "Adventure",
+      "Indie",
+      "Dragons",
+      "Female Protagonist"
+    ],
+    "genres": [
+      "Adventure",
+      "Casual",
+      "Indie"
+    ],
+    "isFree": false,
+    "price": "¥ 68.00",
+    "releaseDate": "14 Nov, 2017",
+    "lastModified": 1510704089,
+    "recommendationTotal": 0,
+    "ignUrl": "https://www.ign.com/games/oure"
+  },
+  {
+    "appid": 694990,
+    "name": "Goblin and Coins II",
+    "shortDescription": "Years have passed, decades maybe. Little goblin moved on, all but forgot about the great coin trouble, not even realizing that a new trouble is awaiting behind the doors!",
+    "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/694990/header.jpg?t=1745387990",
+    "capsuleImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/694990/capsule_231x87.jpg?t=1745387990",
+    "storeUrl": "https://store.steampowered.com/app/694990/",
+    "tags": [
+      "Indie",
+      "Casual",
+      "Adventure",
+      "Platformer",
+      "Metroidvania",
+      "Fantasy",
+      "Side Scroller",
+      "Exploration",
+      "2D",
+      "Precision Platformer",
+      "Pixel Graphics",
+      "Retro",
+      "Singleplayer",
+      "2D Platformer",
+      "Controller",
+      "Difficult"
+    ],
+    "genres": [
+      "Adventure",
+      "Casual",
+      "Indie"
+    ],
+    "isFree": false,
+    "price": "¥ 4.14",
+    "releaseDate": "11 Apr, 2023",
+    "lastModified": 1745387990,
+    "recommendationTotal": 0,
+    "ignUrl": "https://www.ign.com/games/goblin-and-coins-ii"
   },
   {
     "appid": 705870,
