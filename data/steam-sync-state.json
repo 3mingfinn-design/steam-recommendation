@@ -1,5 +1,5 @@
 {
-  "lastCatalogSync": 1793225245,
+  "lastCatalogSync": 1793246884,
   "details": {
     "10": {
       "lastModified": 1745368572,
@@ -16558,7 +16558,7 @@
       "status": "indexed"
     },
     "332540": {
-      "lastModified": 1688411726,
+      "lastModified": 1793243855,
       "status": "indexed"
     },
     "332570": {
@@ -18602,7 +18602,7 @@
       "status": "indexed"
     },
     "346110": {
-      "lastModified": 1792799671,
+      "lastModified": 1793226330,
       "status": "indexed"
     },
     "346120": {
@@ -44274,7 +44274,7 @@
       "status": "indexed"
     },
     "537680": {
-      "lastModified": 1792593695,
+      "lastModified": 1793231342,
       "status": "excluded"
     },
     "537700": {
@@ -50754,7 +50754,7 @@
       "status": "indexed"
     },
     "582270": {
-      "lastModified": 1674789705,
+      "lastModified": 1793237175,
       "status": "indexed"
     },
     "582290": {
@@ -55318,7 +55318,7 @@
       "status": "indexed"
     },
     "615770": {
-      "lastModified": 1787857965,
+      "lastModified": 1793236695,
       "status": "indexed"
     },
     "615780": {
@@ -71754,7 +71754,7 @@
       "status": "indexed"
     },
     "726680": {
-      "lastModified": 1793051788,
+      "lastModified": 1793232879,
       "status": "excluded"
     },
     "726710": {
@@ -82430,7 +82430,7 @@
       "status": "indexed"
     },
     "794600": {
-      "lastModified": 1791225244,
+      "lastModified": 1793245159,
       "status": "indexed"
     },
     "794630": {
@@ -120358,7 +120358,7 @@
       "status": "indexed"
     },
     "1048450": {
-      "lastModified": 1759278748,
+      "lastModified": 1793234228,
       "status": "excluded"
     },
     "1048470": {
@@ -127350,7 +127350,7 @@
       "status": "excluded"
     },
     "1091030": {
-      "lastModified": 1782764297,
+      "lastModified": 1793242718,
       "status": "indexed"
     },
     "1091070": {
@@ -137094,8 +137094,8 @@
       "status": "excluded"
     },
     "1149050": {
-      "lastModified": 1793147168,
-      "status": "excluded"
+      "lastModified": 1793225577,
+      "status": "indexed"
     },
     "1149070": {
       "lastModified": 1667471408,
@@ -138394,7 +138394,7 @@
       "status": "indexed"
     },
     "1156250": {
-      "lastModified": 1792776164,
+      "lastModified": 1793226106,
       "status": "indexed"
     },
     "1156290": {
@@ -144230,7 +144230,7 @@
       "status": "indexed"
     },
     "1191830": {
-      "lastModified": 1793092723,
+      "lastModified": 1793240322,
       "status": "indexed"
     },
     "1191840": {
@@ -155698,7 +155698,7 @@
       "status": "indexed"
     },
     "1263940": {
-      "lastModified": 1665363481,
+      "lastModified": 1793228785,
       "status": "excluded"
     },
     "1263990": {
@@ -164646,7 +164646,7 @@
       "status": "excluded"
     },
     "1319530": {
-      "lastModified": 1789481219,
+      "lastModified": 1793239564,
       "status": "excluded"
     },
     "1319550": {
@@ -166422,7 +166422,7 @@
       "status": "indexed"
     },
     "1333620": {
-      "lastModified": 1793172993,
+      "lastModified": 1793239618,
       "status": "excluded"
     },
     "1333650": {
@@ -177950,7 +177950,7 @@
       "status": "indexed"
     },
     "1401200": {
-      "lastModified": 1789053032,
+      "lastModified": 1793225802,
       "status": "indexed"
     },
     "1401220": {
@@ -178821,12 +178821,400 @@
       "lastModified": 1793033977,
       "status": "indexed"
     },
+    "1407620": {
+      "lastModified": 1629085622,
+      "status": "indexed"
+    },
     "1407640": {
       "lastModified": 1772717341,
       "status": "indexed"
     },
+    "1407750": {
+      "lastModified": 1764432614,
+      "status": "excluded"
+    },
+    "1407760": {
+      "lastModified": 1759952719,
+      "status": "excluded"
+    },
+    "1407790": {
+      "lastModified": 1630702724,
+      "status": "indexed"
+    },
     "1407850": {
       "lastModified": 1699564248,
+      "status": "indexed"
+    },
+    "1407860": {
+      "lastModified": 1635345853,
+      "status": "indexed"
+    },
+    "1407870": {
+      "lastModified": 1662798924,
+      "status": "indexed"
+    },
+    "1407890": {
+      "lastModified": 1728301791,
+      "status": "indexed"
+    },
+    "1407920": {
+      "lastModified": 1617378565,
+      "status": "indexed"
+    },
+    "1407950": {
+      "lastModified": 1625561805,
+      "status": "indexed"
+    },
+    "1408000": {
+      "lastModified": 1600952972,
+      "status": "indexed"
+    },
+    "1408040": {
+      "lastModified": 1743428025,
+      "status": "indexed"
+    },
+    "1408050": {
+      "lastModified": 1787565892,
+      "status": "indexed"
+    },
+    "1408060": {
+      "lastModified": 1734897391,
+      "status": "indexed"
+    },
+    "1408070": {
+      "lastModified": 1742109462,
+      "status": "indexed"
+    },
+    "1408080": {
+      "lastModified": 1790051505,
+      "status": "indexed"
+    },
+    "1408090": {
+      "lastModified": 1774642048,
+      "status": "indexed"
+    },
+    "1408100": {
+      "lastModified": 1620956866,
+      "status": "indexed"
+    },
+    "1408110": {
+      "lastModified": 1787274077,
+      "status": "indexed"
+    },
+    "1408130": {
+      "lastModified": 1758675048,
+      "status": "excluded"
+    },
+    "1408150": {
+      "lastModified": 1626766593,
+      "status": "indexed"
+    },
+    "1408160": {
+      "lastModified": 1618950356,
+      "status": "indexed"
+    },
+    "1408200": {
+      "lastModified": 1761317672,
+      "status": "indexed"
+    },
+    "1408220": {
+      "lastModified": 1603853033,
+      "status": "indexed"
+    },
+    "1408230": {
+      "lastModified": 1791475381,
+      "status": "indexed"
+    },
+    "1408240": {
+      "lastModified": 1791563893,
+      "status": "excluded"
+    },
+    "1408260": {
+      "lastModified": 1728829917,
+      "status": "excluded"
+    },
+    "1408300": {
+      "lastModified": 1792296902,
+      "status": "excluded"
+    },
+    "1408310": {
+      "lastModified": 1600268053,
+      "status": "indexed"
+    },
+    "1408350": {
+      "lastModified": 1701435780,
+      "status": "indexed"
+    },
+    "1408370": {
+      "lastModified": 1622289135,
+      "status": "indexed"
+    },
+    "1408380": {
+      "lastModified": 1605524430,
+      "status": "indexed"
+    },
+    "1408400": {
+      "lastModified": 1789374654,
+      "status": "indexed"
+    },
+    "1408410": {
+      "lastModified": 1617367177,
+      "status": "indexed"
+    },
+    "1408420": {
+      "lastModified": 1612456260,
+      "status": "indexed"
+    },
+    "1408430": {
+      "lastModified": 1684079602,
+      "status": "indexed"
+    },
+    "1408450": {
+      "lastModified": 1700284634,
+      "status": "indexed"
+    },
+    "1408470": {
+      "lastModified": 1793035370,
+      "status": "excluded"
+    },
+    "1408480": {
+      "lastModified": 1681324009,
+      "status": "indexed"
+    },
+    "1408490": {
+      "lastModified": 1605283377,
+      "status": "indexed"
+    },
+    "1408530": {
+      "lastModified": 1605856476,
+      "status": "indexed"
+    },
+    "1408550": {
+      "lastModified": 1667124282,
+      "status": "indexed"
+    },
+    "1408560": {
+      "lastModified": 1760438824,
+      "status": "excluded"
+    },
+    "1408570": {
+      "lastModified": 1623410072,
+      "status": "indexed"
+    },
+    "1408580": {
+      "lastModified": 1750357560,
+      "status": "excluded"
+    },
+    "1408590": {
+      "lastModified": 1632280744,
+      "status": "indexed"
+    },
+    "1408610": {
+      "lastModified": 1737626002,
+      "status": "indexed"
+    },
+    "1408630": {
+      "lastModified": 1652870051,
+      "status": "indexed"
+    },
+    "1408700": {
+      "lastModified": 1728645779,
+      "status": "indexed"
+    },
+    "1408710": {
+      "lastModified": 1732366733,
+      "status": "indexed"
+    },
+    "1408730": {
+      "lastModified": 1752598892,
+      "status": "indexed"
+    },
+    "1408760": {
+      "lastModified": 1645931390,
+      "status": "indexed"
+    },
+    "1408810": {
+      "lastModified": 1628639043,
+      "status": "indexed"
+    },
+    "1408850": {
+      "lastModified": 1755458242,
+      "status": "excluded"
+    },
+    "1408860": {
+      "lastModified": 1790592537,
+      "status": "indexed"
+    },
+    "1408890": {
+      "lastModified": 1765416974,
+      "status": "excluded"
+    },
+    "1408930": {
+      "lastModified": 1667358198,
+      "status": "indexed"
+    },
+    "1408960": {
+      "lastModified": 1754800370,
+      "status": "indexed"
+    },
+    "1409020": {
+      "lastModified": 1606835662,
+      "status": "indexed"
+    },
+    "1409030": {
+      "lastModified": 1693032534,
+      "status": "excluded"
+    },
+    "1409070": {
+      "lastModified": 1783602572,
+      "status": "excluded"
+    },
+    "1409160": {
+      "lastModified": 1717364615,
+      "status": "indexed"
+    },
+    "1409170": {
+      "lastModified": 1683319011,
+      "status": "excluded"
+    },
+    "1409180": {
+      "lastModified": 1636929559,
+      "status": "indexed"
+    },
+    "1409190": {
+      "lastModified": 1749748844,
+      "status": "indexed"
+    },
+    "1409200": {
+      "lastModified": 1761836810,
+      "status": "indexed"
+    },
+    "1409250": {
+      "lastModified": 1601075110,
+      "status": "indexed"
+    },
+    "1409260": {
+      "lastModified": 1615075356,
+      "status": "indexed"
+    },
+    "1409270": {
+      "lastModified": 1763980192,
+      "status": "excluded"
+    },
+    "1409300": {
+      "lastModified": 1696307240,
+      "status": "indexed"
+    },
+    "1409320": {
+      "lastModified": 1659101938,
+      "status": "indexed"
+    },
+    "1409330": {
+      "lastModified": 1659581979,
+      "status": "indexed"
+    },
+    "1409340": {
+      "lastModified": 1658991485,
+      "status": "indexed"
+    },
+    "1409350": {
+      "lastModified": 1653749574,
+      "status": "indexed"
+    },
+    "1409360": {
+      "lastModified": 1779140829,
+      "status": "indexed"
+    },
+    "1409370": {
+      "lastModified": 1601431106,
+      "status": "indexed"
+    },
+    "1409410": {
+      "lastModified": 1689988100,
+      "status": "excluded"
+    },
+    "1409460": {
+      "lastModified": 1675087913,
+      "status": "excluded"
+    },
+    "1409470": {
+      "lastModified": 1609576891,
+      "status": "indexed"
+    },
+    "1409510": {
+      "lastModified": 1641537459,
+      "status": "indexed"
+    },
+    "1409520": {
+      "lastModified": 1609563576,
+      "status": "indexed"
+    },
+    "1409530": {
+      "lastModified": 1778834404,
+      "status": "indexed"
+    },
+    "1409550": {
+      "lastModified": 1717917538,
+      "status": "excluded"
+    },
+    "1409560": {
+      "lastModified": 1745491480,
+      "status": "indexed"
+    },
+    "1409570": {
+      "lastModified": 1617959186,
+      "status": "indexed"
+    },
+    "1409600": {
+      "lastModified": 1604193179,
+      "status": "indexed"
+    },
+    "1409610": {
+      "lastModified": 1729273858,
+      "status": "indexed"
+    },
+    "1409630": {
+      "lastModified": 1777323322,
+      "status": "indexed"
+    },
+    "1409640": {
+      "lastModified": 1682134613,
+      "status": "indexed"
+    },
+    "1409650": {
+      "lastModified": 1630127949,
+      "status": "excluded"
+    },
+    "1409680": {
+      "lastModified": 1601474459,
+      "status": "indexed"
+    },
+    "1409700": {
+      "lastModified": 1656520188,
+      "status": "indexed"
+    },
+    "1409710": {
+      "lastModified": 1666984075,
+      "status": "indexed"
+    },
+    "1409730": {
+      "lastModified": 1628611520,
+      "status": "indexed"
+    },
+    "1409740": {
+      "lastModified": 1774292205,
+      "status": "indexed"
+    },
+    "1409760": {
+      "lastModified": 1701898351,
+      "status": "indexed"
+    },
+    "1409770": {
+      "lastModified": 1776848197,
+      "status": "excluded"
+    },
+    "1409780": {
+      "lastModified": 1613016152,
       "status": "indexed"
     },
     "1409810": {
@@ -178858,7 +179246,7 @@
       "status": "indexed"
     },
     "1410040": {
-      "lastModified": 1792688639,
+      "lastModified": 1793183442,
       "status": "excluded"
     },
     "1410070": {
@@ -179621,6 +180009,14 @@
       "lastModified": 1658991189,
       "status": "indexed"
     },
+    "1414250": {
+      "lastModified": 1679701200,
+      "status": "indexed"
+    },
+    "1414270": {
+      "lastModified": 1723203476,
+      "status": "indexed"
+    },
     "1414280": {
       "lastModified": 1667372391,
       "status": "indexed"
@@ -179628,6 +180024,238 @@
     "1414290": {
       "lastModified": 1658825223,
       "status": "indexed"
+    },
+    "1414300": {
+      "lastModified": 1695805272,
+      "status": "indexed"
+    },
+    "1414320": {
+      "lastModified": 1602169233,
+      "status": "indexed"
+    },
+    "1414380": {
+      "lastModified": 1605196956,
+      "status": "indexed"
+    },
+    "1414400": {
+      "lastModified": 1751043343,
+      "status": "indexed"
+    },
+    "1414410": {
+      "lastModified": 1731082485,
+      "status": "excluded"
+    },
+    "1414430": {
+      "lastModified": 1650954198,
+      "status": "indexed"
+    },
+    "1414440": {
+      "lastModified": 1672397600,
+      "status": "excluded"
+    },
+    "1414470": {
+      "lastModified": 1703563068,
+      "status": "indexed"
+    },
+    "1414480": {
+      "lastModified": 1780129270,
+      "status": "indexed"
+    },
+    "1414490": {
+      "lastModified": 1600447597,
+      "status": "indexed"
+    },
+    "1414500": {
+      "lastModified": 1602488652,
+      "status": "indexed"
+    },
+    "1414520": {
+      "lastModified": 1723464507,
+      "status": "excluded"
+    },
+    "1414530": {
+      "lastModified": 1792141923,
+      "status": "indexed"
+    },
+    "1414550": {
+      "lastModified": 1665926263,
+      "status": "indexed"
+    },
+    "1414570": {
+      "lastModified": 1604614184,
+      "status": "indexed"
+    },
+    "1414610": {
+      "lastModified": 1638263032,
+      "status": "excluded"
+    },
+    "1414640": {
+      "lastModified": 1645212159,
+      "status": "indexed"
+    },
+    "1414650": {
+      "lastModified": 1788251229,
+      "status": "indexed"
+    },
+    "1414660": {
+      "lastModified": 1749917378,
+      "status": "excluded"
+    },
+    "1414680": {
+      "lastModified": 1607688825,
+      "status": "indexed"
+    },
+    "1414700": {
+      "lastModified": 1623880189,
+      "status": "indexed"
+    },
+    "1414710": {
+      "lastModified": 1751594064,
+      "status": "indexed"
+    },
+    "1414720": {
+      "lastModified": 1611501748,
+      "status": "indexed"
+    },
+    "1414770": {
+      "lastModified": 1651821930,
+      "status": "indexed"
+    },
+    "1414790": {
+      "lastModified": 1667855883,
+      "status": "indexed"
+    },
+    "1414800": {
+      "lastModified": 1622206546,
+      "status": "indexed"
+    },
+    "1414840": {
+      "lastModified": 1600412753,
+      "status": "indexed"
+    },
+    "1414850": {
+      "lastModified": 1746026335,
+      "status": "indexed"
+    },
+    "1414900": {
+      "lastModified": 1742428426,
+      "status": "indexed"
+    },
+    "1414910": {
+      "lastModified": 1786962055,
+      "status": "indexed"
+    },
+    "1414920": {
+      "lastModified": 1661717287,
+      "status": "indexed"
+    },
+    "1414930": {
+      "lastModified": 1630543896,
+      "status": "indexed"
+    },
+    "1414990": {
+      "lastModified": 1712983402,
+      "status": "indexed"
+    },
+    "1415010": {
+      "lastModified": 1792573855,
+      "status": "indexed"
+    },
+    "1415020": {
+      "lastModified": 1613098314,
+      "status": "indexed"
+    },
+    "1415030": {
+      "lastModified": 1602163822,
+      "status": "excluded"
+    },
+    "1415110": {
+      "lastModified": 1622260986,
+      "status": "indexed"
+    },
+    "1415120": {
+      "lastModified": 1606738481,
+      "status": "indexed"
+    },
+    "1415140": {
+      "lastModified": 1790179276,
+      "status": "indexed"
+    },
+    "1415150": {
+      "lastModified": 1661802561,
+      "status": "excluded"
+    },
+    "1415200": {
+      "lastModified": 1601053503,
+      "status": "indexed"
+    },
+    "1415220": {
+      "lastModified": 1773681727,
+      "status": "indexed"
+    },
+    "1415230": {
+      "lastModified": 1777048100,
+      "status": "excluded"
+    },
+    "1415250": {
+      "lastModified": 1669555190,
+      "status": "indexed"
+    },
+    "1415270": {
+      "lastModified": 1676034158,
+      "status": "excluded"
+    },
+    "1415280": {
+      "lastModified": 1779253559,
+      "status": "indexed"
+    },
+    "1415300": {
+      "lastModified": 1720108619,
+      "status": "indexed"
+    },
+    "1415320": {
+      "lastModified": 1726315044,
+      "status": "indexed"
+    },
+    "1415330": {
+      "lastModified": 1765372569,
+      "status": "excluded"
+    },
+    "1415370": {
+      "lastModified": 1616407485,
+      "status": "indexed"
+    },
+    "1415470": {
+      "lastModified": 1678954828,
+      "status": "indexed"
+    },
+    "1415480": {
+      "lastModified": 1606310678,
+      "status": "indexed"
+    },
+    "1415520": {
+      "lastModified": 1608780678,
+      "status": "indexed"
+    },
+    "1415540": {
+      "lastModified": 1616408874,
+      "status": "indexed"
+    },
+    "1415570": {
+      "lastModified": 1751034783,
+      "status": "indexed"
+    },
+    "1415580": {
+      "lastModified": 1724052040,
+      "status": "indexed"
+    },
+    "1415590": {
+      "lastModified": 1603993712,
+      "status": "indexed"
+    },
+    "1415600": {
+      "lastModified": 1729498164,
+      "status": "excluded"
     },
     "1415620": {
       "lastModified": 1762114680,
@@ -179671,6 +180299,10 @@
     },
     "1416000": {
       "lastModified": 1654972378,
+      "status": "indexed"
+    },
+    "1416020": {
+      "lastModified": 1793227115,
       "status": "indexed"
     },
     "1416040": {
@@ -180230,7 +180862,7 @@
       "status": "indexed"
     },
     "1419170": {
-      "lastModified": 1791387656,
+      "lastModified": 1793199806,
       "status": "indexed"
     },
     "1419180": {
@@ -180421,13 +181053,109 @@
       "lastModified": 1766189029,
       "status": "indexed"
     },
+    "1420580": {
+      "lastModified": 1614814216,
+      "status": "indexed"
+    },
     "1420630": {
       "lastModified": 1721943478,
       "status": "excluded"
     },
+    "1420650": {
+      "lastModified": 1624069000,
+      "status": "indexed"
+    },
+    "1420680": {
+      "lastModified": 1637297113,
+      "status": "indexed"
+    },
     "1420700": {
       "lastModified": 1689178926,
       "status": "excluded"
+    },
+    "1420720": {
+      "lastModified": 1602320833,
+      "status": "indexed"
+    },
+    "1420730": {
+      "lastModified": 1604548427,
+      "status": "indexed"
+    },
+    "1420740": {
+      "lastModified": 1645016083,
+      "status": "indexed"
+    },
+    "1420770": {
+      "lastModified": 1726493400,
+      "status": "indexed"
+    },
+    "1420780": {
+      "lastModified": 1770732686,
+      "status": "indexed"
+    },
+    "1420790": {
+      "lastModified": 1773289419,
+      "status": "indexed"
+    },
+    "1420810": {
+      "lastModified": 1650869433,
+      "status": "indexed"
+    },
+    "1420830": {
+      "lastModified": 1729179400,
+      "status": "excluded"
+    },
+    "1420850": {
+      "lastModified": 1792153161,
+      "status": "indexed"
+    },
+    "1420860": {
+      "lastModified": 1623499725,
+      "status": "indexed"
+    },
+    "1420950": {
+      "lastModified": 1782215312,
+      "status": "indexed"
+    },
+    "1420960": {
+      "lastModified": 1736596497,
+      "status": "excluded"
+    },
+    "1420970": {
+      "lastModified": 1730471279,
+      "status": "indexed"
+    },
+    "1420980": {
+      "lastModified": 1659069861,
+      "status": "indexed"
+    },
+    "1420990": {
+      "lastModified": 1771296534,
+      "status": "excluded"
+    },
+    "1421020": {
+      "lastModified": 1685241342,
+      "status": "indexed"
+    },
+    "1421120": {
+      "lastModified": 1701991544,
+      "status": "indexed"
+    },
+    "1421130": {
+      "lastModified": 1667831518,
+      "status": "excluded"
+    },
+    "1421140": {
+      "lastModified": 1672074171,
+      "status": "indexed"
+    },
+    "1421200": {
+      "lastModified": 1778410644,
+      "status": "indexed"
+    },
+    "1421250": {
+      "lastModified": 1789917370,
+      "status": "indexed"
     },
     "1429610": {
       "lastModified": 1614252746,
@@ -181227,6 +181955,10 @@
     },
     "1434490": {
       "lastModified": 1624901378,
+      "status": "indexed"
+    },
+    "1445720": {
+      "lastModified": 1725288238,
       "status": "indexed"
     },
     "1460670": {
